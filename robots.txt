@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://xianda.github.io/sitemap.xml 
+Sitemap: http://wangxianda.cn/sitemap.xml 

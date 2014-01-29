@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://xianda.github.io/atom.xml" rel="self"/>
-  <link href="http://xianda.github.io/"/>
-  <updated>2014-01-30T00:03:53+08:00</updated>
-  <id>http://xianda.github.io/</id>
+  <title><![CDATA[达的回忆录]]></title>
+  <link href="http://wangxianda.cn/atom.xml" rel="self"/>
+  <link href="http://wangxianda.cn/"/>
+  <updated>2014-01-30T00:53:47+08:00</updated>
+  <id>http://wangxianda.cn/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Xianda]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

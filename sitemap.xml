@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://xianda.github.io/blog/archives/</loc>
+        <loc>http://wangxianda.cn/blog/archives/</loc>
         <lastmod>2014-01-30T00:03:36+08:00</lastmod>
     </url>
     <url>
-        <loc>http://xianda.github.io/</loc>
+        <loc>http://wangxianda.cn/</loc>
         <lastmod>2014-01-30T00:03:36+08:00</lastmod>
     </url>
     <url>
-        <loc>http://xianda.github.io/robots.txt</loc>
+        <loc>http://wangxianda.cn/robots.txt</loc>
         <lastmod>2014-01-30T00:03:36+08:00</lastmod>
     </url>
 </urlset>
