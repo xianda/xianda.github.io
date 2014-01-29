@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://xianda.github.io/sitemap.xml 
