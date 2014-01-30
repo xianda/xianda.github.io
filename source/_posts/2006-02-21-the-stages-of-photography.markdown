@@ -7,8 +7,8 @@ slug: the-stages-of-photography
 title: （转载）摄影的N阶段
 wordpress_id: 54
 categories:
-- 唠叨
-- 摄影
+- essay [唠叨]
+- photography [摄影]
 ---
 
 _from 无忌

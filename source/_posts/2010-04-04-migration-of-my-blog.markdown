@@ -7,7 +7,7 @@ slug: migration-of-my-blog
 title: 博客搬家血泪史
 wordpress_id: 150
 categories:
-- 唠叨
+- essay [唠叨]
 tags:
 - blogger
 - blogsync

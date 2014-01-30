@@ -7,8 +7,8 @@ slug: semporna-1-intro
 title: 仙本那-1-行程
 wordpress_id: 28323
 categories:
-- 12仙本那
-- 旅游
+- 2012-semporna [12仙本那]
+- travel [旅游]
 tags:
 - 仙本那
 ---

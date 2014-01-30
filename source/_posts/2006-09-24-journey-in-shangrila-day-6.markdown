@@ -7,8 +7,8 @@ slug: journey-in-shangrila-day-6
 title: 寻找香格里拉·第六天
 wordpress_id: 39
 categories:
-- 06云南行
-- 旅游
+- 2006-yunnan [06云南行]
+- travel [旅游]
 tags:
 - 松赞林寺
 - 纳帕海

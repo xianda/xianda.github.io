@@ -7,9 +7,9 @@ slug: trekking-from-muli-to-yading-1004
 title: 木里亚丁行——10.4 进入白水河流域森林
 wordpress_id: 62
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 木里
 - 白水河

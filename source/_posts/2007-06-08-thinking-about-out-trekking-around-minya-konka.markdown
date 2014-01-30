@@ -7,9 +7,9 @@ slug: thinking-about-out-trekking-around-minya-konka
 title: 贡嘎行·3
 wordpress_id: 53
 categories:
-- 07贡嘎行
-- 户外
-- 旅游
+- 2007-minya-konka [07贡嘎行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 攻略
 - 贡嘎

@@ -7,8 +7,8 @@ slug: trekking-at-qizanggou-3
 title: 七藏沟-3-鱼海子
 wordpress_id: 28320
 categories:
-- 11七藏沟
-- 户外
+- 2011-qizanggou [11七藏沟]
+- outdoor [户外]
 tags:
 - 七藏沟
 - 鱼海子

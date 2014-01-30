@@ -7,8 +7,8 @@ slug: trekking-at-mount-qiyun
 title: 齐云山行
 wordpress_id: 28302
 categories:
-- 户外
-- 齐云山
+- outdoor [户外]
+- mount-qiyun [齐云山]
 tags:
 - 齐云山
 ---

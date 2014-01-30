@@ -7,8 +7,8 @@ slug: about-uv-filter
 title: 原来UV都这么复杂
 wordpress_id: 22
 categories:
-- 器材
-- 摄影
+- photography-equipment [器材]
+- photography [摄影]
 tags:
 - UV镜
 ---

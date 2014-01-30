@@ -7,9 +7,9 @@ slug: the-accessories-of-camera
 title: 遥控、双阳环、近摄镜
 wordpress_id: 55
 categories:
-- 唠叨
-- 器材
-- 摄影
+- essay [唠叨]
+- photography-equipment [器材]
+- photography [摄影]
 ---
 
 网上买了一个遥控和一个双阳环，高兴了一阵子。回家试了下，反接标头效果是太夸张了，感觉像显微镜一样。不过对焦实在太难了，景深超浅，拍了好多张就不见完全清晰的东西出来，即使已经用遥控了，不知道是不是该用更小的光圈。

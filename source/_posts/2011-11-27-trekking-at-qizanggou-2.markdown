@@ -7,8 +7,8 @@ slug: trekking-at-qizanggou-2
 title: 七藏沟-2-长海子
 wordpress_id: 28319
 categories:
-- 11七藏沟
-- 户外
+- 2011-qizanggou [11七藏沟]
+- outdoor [户外]
 tags:
 - 七藏沟
 ---

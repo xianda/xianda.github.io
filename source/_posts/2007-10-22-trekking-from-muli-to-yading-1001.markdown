@@ -7,9 +7,9 @@ slug: trekking-from-muli-to-yading-1001
 title: 木里亚丁行——10.1 抵木里
 wordpress_id: 61
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 木里
 - 盐源

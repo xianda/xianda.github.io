@@ -7,8 +7,8 @@ slug: semporna-7-singamata-mantabuan
 title: 仙本那-7-Singamata & Mantabuan
 wordpress_id: 28352
 categories:
-- 12仙本那
-- 旅游
+- 2012-semporna [12仙本那]
+- travel [旅游]
 tags:
 - Mantabuan
 - Singamata

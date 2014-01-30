@@ -7,9 +7,9 @@ slug: trekking-around-the-minya-konka
 title: 贡嘎行
 wordpress_id: 51
 categories:
-- 07贡嘎行
-- 户外
-- 旅游
+- 2007-minya-konka [07贡嘎行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 子梅垭口
 - 盘盘山

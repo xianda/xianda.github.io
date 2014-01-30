@@ -7,7 +7,7 @@ slug: recent-hikes
 title: 第二次火帽，第二次“C线”，计划走贡嘎
 wordpress_id: 50
 categories:
-- 户外
+- outdoor [户外]
 tags:
 - 火帽线
 ---

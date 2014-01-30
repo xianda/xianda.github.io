@@ -7,8 +7,8 @@ slug: trekking-at-danxia
 title: 大丹霞休闲行
 wordpress_id: 24
 categories:
-- 大丹霞
-- 户外
+- dadanxia [大丹霞]
+- outdoor [户外]
 tags:
 - 大丹霞
 - 巴寨

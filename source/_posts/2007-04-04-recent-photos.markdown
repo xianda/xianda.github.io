@@ -7,7 +7,7 @@ slug: recent-photos
 title: 照片
 wordpress_id: 42
 categories:
-- 摄影
+- photography [摄影]
 tags:
 - 静物
 ---

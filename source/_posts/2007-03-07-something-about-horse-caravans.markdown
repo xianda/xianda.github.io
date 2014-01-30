@@ -7,7 +7,7 @@ slug: something-about-horse-caravans
 title: （摘录）黄睿：最后的马帮勉强在笑，我在流泪
 wordpress_id: 57
 categories:
-- 唠叨
+- essay [唠叨]
 ---
 
 一、

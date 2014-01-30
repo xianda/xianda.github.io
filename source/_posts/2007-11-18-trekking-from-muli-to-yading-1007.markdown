@@ -7,9 +7,9 @@ slug: trekking-from-muli-to-yading-1007
 title: 木里亚丁行——10.7 到克孜拉
 wordpress_id: 65
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 亚丁
 - 央迈勇

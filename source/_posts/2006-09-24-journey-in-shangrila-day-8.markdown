@@ -7,8 +7,8 @@ slug: journey-in-shangrila-day-8
 title: 寻找香格里拉·第八天
 wordpress_id: 32
 categories:
-- 06云南行
-- 旅游
+- 2006-yunnan [06云南行]
+- travel [旅游]
 tags:
 - 束河
 ---

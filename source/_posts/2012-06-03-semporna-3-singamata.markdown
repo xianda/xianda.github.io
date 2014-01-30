@@ -7,8 +7,8 @@ slug: semporna-3-singamata
 title: 仙本那-3-Singamata
 wordpress_id: 28326
 categories:
-- 12仙本那
-- 旅游
+- 2012-semporna [12仙本那]
+- travel [旅游]
 tags:
 - OW
 - Singamata

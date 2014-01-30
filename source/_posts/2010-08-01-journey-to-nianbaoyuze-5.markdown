@@ -7,8 +7,8 @@ slug: journey-to-nianbaoyuze-5
 title: 年保玉则-5-回家
 wordpress_id: 28315
 categories:
-- 10年保玉则
-- 旅游
+- 2010-nianbaoyuze [10年保玉则]
+- travel [旅游]
 tags:
 - 年保玉则
 ---

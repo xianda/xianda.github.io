@@ -7,9 +7,9 @@ slug: trekking-from-muli-to-yading-1009
 title: 木里亚丁行——10.9-10.14 稻城、中甸、昆明
 wordpress_id: 69
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 昆明
 - 稻城

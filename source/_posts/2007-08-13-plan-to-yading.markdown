@@ -7,9 +7,9 @@ slug: plan-to-yading
 title: 国庆去亚丁？
 wordpress_id: 23
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 亚丁
 - 木里

@@ -7,7 +7,7 @@ slug: my-2006
 title: 06盘点
 wordpress_id: 6
 categories:
-- 唠叨
+- essay [唠叨]
 ---
 
 在浴室中享受热水器送出的热水时，06年悄然离去，从浴室出来的时候阿甘说我一个澡洗了两年！

@@ -7,8 +7,8 @@ slug: semporna-6-marbu
 title: 仙本那-6-马布
 wordpress_id: 28343
 categories:
-- 12仙本那
-- 旅游
+- 2012-semporna [12仙本那]
+- travel [旅游]
 tags:
 - Scuba Junkie
 - 仙本那

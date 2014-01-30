@@ -7,8 +7,8 @@ slug: journey-in-shangrila-day-5
 title: 寻找香格里拉·第五天
 wordpress_id: 30
 categories:
-- 06云南行
-- 旅游
+- 2006-yunnan [06云南行]
+- travel [旅游]
 tags:
 - 明永冰川
 - 雨崩

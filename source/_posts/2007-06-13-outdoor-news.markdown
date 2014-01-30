@@ -7,8 +7,8 @@ slug: outdoor-news
 title: 户外事件，我的感想
 wordpress_id: 37
 categories:
-- 唠叨
-- 户外
+- essay [唠叨]
+- outdoor [户外]
 ---
 
 继续俺干巴巴的评论。

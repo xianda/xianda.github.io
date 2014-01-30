@@ -7,7 +7,7 @@ slug: hiking-at-the-weekend
 title: 爬山
 wordpress_id: 45
 categories:
-- 户外
+- outdoor [户外]
 ---
 
 最近两个周末跟同学爬了两次山，感觉挺不错的，总结一下。

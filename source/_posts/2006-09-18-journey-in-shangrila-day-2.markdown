@@ -7,8 +7,8 @@ slug: journey-in-shangrila-day-2
 title: 寻找香格里拉·第二天
 wordpress_id: 33
 categories:
-- 06云南行
-- 旅游
+- 2006-yunnan [06云南行]
+- travel [旅游]
 tags:
 - 丽江
 - 奔子栏

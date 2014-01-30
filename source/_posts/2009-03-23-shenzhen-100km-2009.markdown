@@ -7,8 +7,8 @@ slug: shenzhen-100km-2009
 title: 09深圳百公里
 wordpress_id: 157
 categories:
-- 户外
-- 深圳百公里
+- outdoor [户外]
+- shenzhen-100km [深圳百公里]
 tags:
 - 深圳百公里
 ---

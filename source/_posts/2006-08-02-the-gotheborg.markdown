@@ -7,8 +7,8 @@ slug: the-gotheborg
 title: 初探哥德堡号
 wordpress_id: 26
 categories:
-- 摄影
-- 随便走走
+- photography [摄影]
+- hiking [随便走走]
 tags:
 - 哥德堡号
 ---

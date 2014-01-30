@@ -7,9 +7,9 @@ slug: trekking-around-minya-konka-2008-9
 title: 08贡嘎行之九
 wordpress_id: 13
 categories:
-- 08贡嘎行
-- 户外
-- 旅游
+- 2008-minya-konka [08贡嘎行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 贡嘎
 - 贡嘎寺

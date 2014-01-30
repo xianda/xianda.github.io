@@ -7,8 +7,8 @@ slug: more-about-our-trekking-around-minya-konka
 title: 贡嘎行·2
 wordpress_id: 52
 categories:
-- 07贡嘎行
-- 户外
+- 2007-minya-konka [07贡嘎行]
+- outdoor [户外]
 tags:
 - 盘盘山
 - 贡嘎

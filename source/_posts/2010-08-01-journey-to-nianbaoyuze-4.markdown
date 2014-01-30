@@ -7,8 +7,8 @@ slug: journey-to-nianbaoyuze-4
 title: 年保玉则-4-花海
 wordpress_id: 28314
 categories:
-- 10年保玉则
-- 旅游
+- 2010-nianbaoyuze [10年保玉则]
+- travel [旅游]
 tags:
 - 年保玉则
 ---

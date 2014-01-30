@@ -7,8 +7,8 @@ slug: hiking-on-huo-mao-path
 title: 第一次走火帽线
 wordpress_id: 46
 categories:
-- 唠叨
-- 户外
+- essay [唠叨]
+- outdoor [户外]
 tags:
 - 火帽线
 ---

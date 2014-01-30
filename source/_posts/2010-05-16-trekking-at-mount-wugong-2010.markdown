@@ -7,8 +7,8 @@ slug: trekking-at-mount-wugong-2010
 title: 10武功山行
 wordpress_id: 158
 categories:
-- 户外
-- 武功山
+- outdoor [户外]
+- mount-wugong [武功山]
 tags:
 - 武功山
 ---

@@ -7,7 +7,7 @@ slug: discover-guangzhou-2008
 title: 08发现广州
 wordpress_id: 177
 categories:
-- 随便走走
+- hiking [随便走走]
 tags:
 - 发现广州
 ---

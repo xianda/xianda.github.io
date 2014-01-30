@@ -7,8 +7,8 @@ slug: recent-hikes
 title: 活动记录：帽峰山探路、小洲村半日游、C线遇雨
 wordpress_id: 44
 categories:
-- 户外
-- 随便走走
+- outdoor [户外]
+- hiking [随便走走]
 tags:
 - 小洲村
 - 帽峰山

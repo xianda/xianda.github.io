@@ -7,7 +7,7 @@ slug: cold-fairyland-at-guangzhou-bunker-bar
 title: 冷酷仙境@广州Bunker吧
 wordpress_id: 20
 categories:
-- 音乐
+- music [音乐]
 tags:
 - 冷酷仙境
 ---

@@ -7,7 +7,7 @@ slug: the-sixth-mid-autumn-day-in-guangzhou
 title: 记叙离家的六个中秋
 wordpress_id: 48
 categories:
-- 唠叨
+- essay [唠叨]
 ---
 
 屈指算来，已是第六个不在家度过的中秋节了。

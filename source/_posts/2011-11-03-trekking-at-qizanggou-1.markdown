@@ -7,8 +7,8 @@ slug: trekking-at-qizanggou-1
 title: 七藏沟-1-出发
 wordpress_id: 28316
 categories:
-- 11七藏沟
-- 户外
+- 2011-qizanggou [11七藏沟]
+- outdoor [户外]
 tags:
 - 七藏沟
 ---

@@ -7,8 +7,8 @@ slug: d200-16-85
 title: D200+16-85
 wordpress_id: 182
 categories:
-- 器材
-- 摄影
+- photography-equipment [器材]
+- photography [摄影]
 tags:
 - 16-85
 - D200

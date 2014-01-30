@@ -7,7 +7,7 @@ slug: joke-difference-between-men-and-women
 title: （转载）非常有意思的笑话——女人们和男人们的友谊
 wordpress_id: 56
 categories:
-- 唠叨
+- essay [唠叨]
 ---
 
 女人们的友谊：一个女人有一晚没回家

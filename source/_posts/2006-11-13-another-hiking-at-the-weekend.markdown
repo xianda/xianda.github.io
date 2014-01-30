@@ -7,7 +7,7 @@ slug: another-hiking-at-the-weekend
 title: 最轻松却花了最长时间的一次爬山
 wordpress_id: 38
 categories:
-- 户外
+- outdoor [户外]
 tags:
 - 帽峰山
 ---

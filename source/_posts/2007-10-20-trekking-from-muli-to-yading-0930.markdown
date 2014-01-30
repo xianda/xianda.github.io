@@ -7,9 +7,9 @@ slug: trekking-from-muli-to-yading-0930
 title: 木里亚丁行——9.30 出发
 wordpress_id: 67
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 成都
 ---

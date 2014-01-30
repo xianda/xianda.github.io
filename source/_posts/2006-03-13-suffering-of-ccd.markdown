@@ -7,9 +7,9 @@ slug: suffering-of-ccd
 title: CCD受难记
 wordpress_id: 18
 categories:
-- 唠叨
-- 器材
-- 摄影
+- essay [唠叨]
+- photography-equipment [器材]
+- photography [摄影]
 tags:
 - CCD清洁
 ---

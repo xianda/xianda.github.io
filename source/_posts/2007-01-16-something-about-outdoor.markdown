@@ -7,8 +7,8 @@ slug: something-about-outdoor
 title: 户外书刊、装备、牛头山探路……
 wordpress_id: 35
 categories:
-- 唠叨
-- 户外
+- essay [唠叨]
+- outdoor [户外]
 ---
 
 最近新添了少量准备，也看了一些资料，准备有空整理出一份装备报告。目前主要矛盾是资金短缺，呵呵！

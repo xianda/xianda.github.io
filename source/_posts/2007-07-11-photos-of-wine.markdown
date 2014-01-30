@@ -7,7 +7,7 @@ slug: photos-of-wine
 title: 红酒
 wordpress_id: 49
 categories:
-- 摄影
+- photography [摄影]
 tags:
 - 静物
 ---

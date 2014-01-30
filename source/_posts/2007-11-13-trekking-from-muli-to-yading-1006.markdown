@@ -7,9 +7,9 @@ slug: trekking-from-muli-to-yading-1006
 title: 木里亚丁行——10.6 翻杂巴拉垭口
 wordpress_id: 64
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 亚丁
 - 夏洛多吉

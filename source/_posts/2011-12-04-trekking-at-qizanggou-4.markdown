@@ -7,8 +7,8 @@ slug: trekking-at-qizanggou-4
 title: 七藏沟-4-红星海
 wordpress_id: 28321
 categories:
-- 11七藏沟
-- 户外
+- 2011-qizanggou [11七藏沟]
+- outdoor [户外]
 tags:
 - 七藏沟
 - 红星海

@@ -7,8 +7,8 @@ slug: a-good-article-about-nujiang-river
 title: 看完一篇怒江游记
 wordpress_id: 43
 categories:
-- 唠叨
-- 户外
+- essay [唠叨]
+- outdoor [户外]
 ---
 
 **怒江游记连载《你怒你的，我走我的》，来自磨房论坛。**

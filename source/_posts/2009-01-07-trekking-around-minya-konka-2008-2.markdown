@@ -7,9 +7,9 @@ slug: trekking-around-minya-konka-2008-2
 title: 08贡嘎行之二
 wordpress_id: 9
 categories:
-- 08贡嘎行
-- 户外
-- 旅游
+- 2008-minya-konka [08贡嘎行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 康定
 - 成都

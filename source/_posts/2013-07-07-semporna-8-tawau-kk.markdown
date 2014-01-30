@@ -7,8 +7,8 @@ slug: semporna-8-tawau-kk
 title: 仙本那-8-斗湖 & 亚庇
 wordpress_id: 28353
 categories:
-- 12仙本那
-- 旅游
+- 2012-semporna [12仙本那]
+- travel [旅游]
 tags:
 - 亚庇
 - 仙本那

@@ -7,7 +7,7 @@ slug: hiking-activity-at-the-weekend
 title: “都市暴走族”体验
 wordpress_id: 21
 categories:
-- 户外
+- outdoor [户外]
 tags:
 - 山野百里
 ---

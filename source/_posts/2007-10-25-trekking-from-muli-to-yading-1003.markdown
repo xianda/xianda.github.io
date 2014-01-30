@@ -7,9 +7,9 @@ slug: trekking-from-muli-to-yading-1003
 title: 木里亚丁行——10.3 到嘟噜
 wordpress_id: 68
 categories:
-- 07木里亚丁行
-- 户外
-- 旅游
+- 2007-muli-yading [07木里亚丁行]
+- outdoor [户外]
+- travel [旅游]
 tags:
 - 嘟噜村
 - 木里

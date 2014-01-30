@@ -7,8 +7,8 @@ slug: journey-in-shangrila-intro
 title: 寻找香格里拉·序
 wordpress_id: 25
 categories:
-- 06云南行
-- 旅游
+- 2006-yunnan [06云南行]
+- travel [旅游]
 ---
 
 
