@@ -1,0 +1,116 @@
+---
+author: xianda
+comments: true
+date: 2006-09-24 23:22:00+00:00
+layout: post
+slug: journey-in-shangrila-day-8
+title: 寻找香格里拉·第八天
+wordpress_id: 32
+categories:
+- 06云南行
+- 旅游
+tags:
+- 束河
+---
+
+
+
+9月9日 星期六 阴 束河
+
+
+
+<束河>
+
+
+
+照样早起拍照，不过太阳仍然不肯出来，没机会再拍“一米阳光”，只能随便扫扫街景。跟着两个扛350D的驴友一起拍，有点意思。
+
+
+
+早餐，出发，公交然后换乘面包车，很容易地逃票。下车，一大群人漫无目的地走，边逛边找客栈。随便找了一家，标间80￥，不贵，住下。后来问多几家，发现都比这家便宜，位置也更好！没所谓，住一晚而已。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh7zHoOW5Flr4HlpGq6Tck-JI-WqBF7CqbO6zqxeC6BqMY-oAsgp8gys5ZCtE15LvH51dW6QwSUpf_TM1vX6bIJotsDu4AuMg5XEBD6GJGXbwJltsKu2R8ao)
+
+
+
+束河真的清静很多，不像丽江。不过也有不少旅游团进来。最不爽是许多供游客骑的马，所以到处是便便。
+
+<!-- more -->
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShz7WMDESgBQ6w_6VllWXGHmWDd_IoC5-YDbXOjqlln2JOGRj1WFlprMmOTyxml4snEeTP-3M28EyvJsrOlNVIzPC0cm4-C3pQfe3HGwccdx1QkNm7X8HVjs)
+
+
+
+找到了传说中的大石桥和铁索桥，还有晒谷场和旁边的龙门客栈。标志性的东西总是要拍一拍。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh4rR--cLlqJtFpcx3WRyUdXuvJnDWLAPaskZEvC9Z0eDJsAVCrUxutnMxy_dvJAJGJJVZNIvmk6_22LI43mFESF8eIMTNUh2-wQJT0VSl6SuodT6saW2EPw)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShzJPBDTRiT7YGOskUx6FhY1BuFaorfPC8-RtkQRQGt0NkPSPHgwoj0EY85tAOl2wrO73s-8fIO-pt-JczTYC8PnrGuSZGfVtPQVQ56CDWFXs43s3fqU6OQk)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh8EL9_Z_zX89hygE2LhIKsUXHskiOCVyuE0vOB5HaiwLHgvszp5NJbP_ivZPoNvizeb8SN-yOedpk3JXO4hoI2elJWh_GIapphR6rhYOuHlYzN4pLYDQGVA)
+
+
+
+龙鼎龙潭和流过镇中的小水渠是丽江古城的水源，这里的水清得无法形容，俺觉得清澈见底这个词表达力度不够，不仅水里的鱼和水草看得很清楚，而且是非常透澈的那种。这里的水草非常非常长。水渠边的店家都把饮料放入水渠中“冰镇”。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh0kT83aY15WYTLyrethlTHy7QGVL9VbkDqFjbpsDg51Pixt1mofvlakfT_MuktScLgNxsKZmCdRNhyCKPaSYhcvQI1JtZclw1rSBjoq3PTc1Nr2Kce-z-2M)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh1t-uh6Dt7nOk1yAu_Jrzp5A-wWqgE8YV_qQ9uQtuQNmbdk7FuA2iDQ6L3sV_UPxVcDdOSzmXSgCvdBOzI2laauBWmUynW7e4hWHceor7g5S005QuAuwRw4)
+
+
+
+这里的院子普遍比丽江宽敞，很舒服的感觉，不像丽江那种有点局促。而且院子都很开放，随时可以进去参观甚至休息，外面大部分作为吧台。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh81bY1q0U6Zb8U4LdYTQUybP0HJ9z3pRqjaJ_wR7FCbjhFHbQz6xFoaaXeTHbSDVOWxNC-JKkBshca2-s5t6vT_mvxdiLS3Pgy8PDvFNPecWcJZExMZ_YVc)
+
+
+
+这里的店面都布置得很小资，加上小镇相对比较清静，所以绝对是休闲的好地方，看书、聊天、发呆、做梦是这里生活的写照。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh9dw06g_9x20-_rEf7URcMmLe49I5-mCubO7jGCpG01yYY91WtKyq6UuXTZyMh7Hy3lr1Q0vcb1Vk2SvrTWiwosIREUN-PjXxa_yHSb3ryB7fNAbddOs6Fw)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShx2sKyu78OSmStX5U33rVRtGHHkmis32Ak87HMwDIDHzI8gucFKKCP_XcFfRD8q_U3rWk48Rc76_MOFY_PucUwoZ6eLlabC6hc731kcq_kVJIdPy7x_WO8g)
+
+
+
+这里的酒吧也很有情调，且也很开放，随便坐坐看看都是很受欢迎的，许多店主本身就是来享受生活的，赚钱不可能是他们的目的，因为这里赚不了多少钱。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh9_45hlxXgS3JX6-nUOsN2nsLbAP1bUqWXuvinO026swPmk2wYJnAtDD9__HgG_ee9Qz3EymZ3vkSjHp07wnH9R5ZKcbCSw2Yfyd98xqy37R-NzfE72ncxM)
+
+
+
+当然这里也在变得越来越商业化，旅游纪念品也非常丰富，但价格相对丽江低了不少，带点手信回去应该在这里动手了。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh-a3ShBFBVJWLW1By503zroU0gbgoiPpFXQYkIRCOUkV2gxFXUmKkzB1O2OsR-UpZ8iHkn5opV3-F-6D84HqsQUlgLPf1DZXhk-qaM_hHX47o6Wv2yfNrCY)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShwdy9ElZdMsc21JuwkMtIsA1tTiJ_EMSIUSUQQiJeUGMRmry7hJCOCpc0PO4Ittwpjr6MOi6I03u8qq-l_ii6r_kVVFP8b6ucj6L_MZ0t8ta8DpnzJi6Ldk)
+
+
+
+这里着地道纳西服饰的老人很多，可能女人比较长寿；穿传统服装的纳西小朋友也不少（不是那种穿衣服照相的小游客）。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh8bq1IVVINkTeT2YmS6HzujUQ6M_twb5BNKA9_f1f2ERQ3e8jMaogcgCGQMQeJn5Q2zEuEf6xKzPXU-VHEgFbLpS3u7zREHOoCAPW5O-O4cGPhHRvLs5YJ0)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShwOtEj6qEXqngjaEx9uOxUop5IViMVX8iW-1PWsG9vk08358gZAM-wnKqgtaGQiyjkiOVt7pA4iMrNd2LWoVkHdvM7rYdJXxaKfJl3Suw-0ikhOqbGPJlcc)
+
+
+
+这里几乎每家都养猫或狗，丽江也如此。紫玉龙家里的QQ女特别引人注目。街上流浪狗和流浪猫很多。曾经见到一只可怜楚楚的小猫，可能饿极了，我刚蹲下它就往我身上蹭，还爬我身上不肯下来。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh9S5ZDHUSidSH0dy8V3zO1-tlZ1XMAYDPsRG0kLWViN32a-sSmndAXk76wN6ZAXtTs-TcSCZ9tk0QpAWDIOAdLYNlbZHlzLQmV9oVI0cGG0btZzEmGt18eY)
+
+
+
+闲逛、看书、聊天、发呆、吃饭、睡觉，过完了一天。

@@ -1,0 +1,71 @@
+---
+author: xianda
+comments: true
+date: 2013-07-07 09:20:00+00:00
+layout: post
+slug: semporna-8-tawau-kk
+title: 仙本那-8-斗湖 & 亚庇
+wordpress_id: 28353
+categories:
+- 12仙本那
+- 旅游
+tags:
+- 亚庇
+- 仙本那
+- 斗湖
+---
+
+踏上返程之路。从Singamata出来，Jimmy一路相陪，不知道是他真的正好有事，还是被我们的3Y美女迷上了，嘿嘿。
+
+仙本那的彩船节还没有结束，镇上很是热闹。我们随处走动了一下，发现没啥好玩，其实也就是当地政府为了吸引游客举行的一些活动，街上多了各种卖小吃、各种小商品的摊子，而那些彩船就是当地土著配合政府做的一些表演性质的节日活动。反正我们是没啥兴趣了，不知道都是些什么人老远看凑这个热闹。
+
+![](http://pic.yupoo.com/wxda/BVF7zJR0/medish.jpg)
+
+<!-- more -->
+
+![](http://pic.yupoo.com/wxda/BVF7EvCK/medish.jpg)
+
+![](http://pic.yupoo.com/wxda/BVF7pEsZ/medish.jpg)
+
+挥霍完下午的时间，Jimmy开车继续送我们挤出小镇，回到斗湖，继续当个称职的地陪。住宿人均只要54RM包早餐，相当满意。晚餐当然少不了海鲜！FB的生活还在继续。
+
+![](http://pic.yupoo.com/wxda/BVF7J4nu/medish.jpg)
+
+![](http://pic.yupoo.com/wxda/BVF7NM91/medish.jpg)
+
+![](http://pic.yupoo.com/wxda/BVF87RFo/medish.jpg)
+
+![](http://pic.yupoo.com/wxda/BVF8cxdD/medish.jpg)
+
+![](http://pic.yupoo.com/wxda/BVF8itjs/medish.jpg)
+
+吃饱喝足继续吃水果。貌似当地人环境意识比较差。买了个菠萝，然后卖家用一个胶袋装了一袋水来洗切好的菠萝，然后再用三个一次性饭盒把菠萝分装出来，而我们只是现吃而已。
+
+晚上似乎没什么娱乐，于是Jimmy开着车带我们兜风，说要找几个人妖给我们看看，结果转来转去没找到，难不成最近严打？
+
+第二天，早餐相当不错。然后我和Marc顶着烈日出去逛了一圈，隔海望到对岸的印尼。不过确实没啥娱乐，天气也实在过于给力，海也没仙本那的漂亮，也担心走远了迷路，没多久便回去了。
+
+![](http://pic.yupoo.com/wxda/BVF92VjR/medish.jpg)
+
+![](http://pic.yupoo.com/wxda/BVF9mExw/medish.jpg)
+
+中午继续由地陪带着去品尝当地美食——肉骨茶。下午地陪有事，我们又跑去瞎逛，看到非常漂亮的珍珠，3Y忍不住心动。当大叔斩钉截铁说不能再少的时候，美女的软磨硬泡居然使大叔的心理防线再度崩溃，中国人杀价功力可见一斑，连我都在一旁目瞪口呆。不过那些珍珠真是相当漂亮，连我都看着跃跃欲试，只是后来摸一摸钱包，算了。
+
+![](http://pic.yupoo.com/wxda/BVF9j3MR/medish.jpg)
+
+Jimmy最后还是赶来送我们去机场，依依惜别。感谢这位帅帅的90后潜水教练，我们只不过是他们潜店每年上千大陆游客中的普通几人，他却待我们如多年的朋友。
+
+飞回亚庇，没有预先订房，直接收出租车司机送到青旅比较集中的地方。找了一下，有些没位，有些环境太简陋，于是几人拖着行李箱穿过大街小巷继续寻找，最终找到一家凑合的住下了。然后再饥肠辘辘地出来找吃，最终居然吃了个印度餐。这个城市虽然是沙巴的首府，不过实在是个很小的城市，我们今晚这一走就穿过了大半个城市了。
+
+第三天，我和石头一早出来跟他们两人分手了，早餐、打车去机场，居然把钱全部花光，出租车也是讲价才够钱的。
+
+![](http://pic.yupoo.com/wxda/BVF9wWeR/medish.jpg)
+
+OVER。
+
+### 费用
+
+交通（S家办公室收取坐Jimmy车的费用+出租车）：45RM
+两晚住宿：104RM
+吃：130RM
+纪念品：30RM

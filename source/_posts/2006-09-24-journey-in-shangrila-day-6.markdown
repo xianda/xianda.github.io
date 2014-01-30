@@ -1,0 +1,147 @@
+---
+author: xianda
+comments: true
+date: 2006-09-24 22:04:00+00:00
+layout: post
+slug: journey-in-shangrila-day-6
+title: 寻找香格里拉·第六天
+wordpress_id: 39
+categories:
+- 06云南行
+- 旅游
+tags:
+- 松赞林寺
+- 纳帕海
+- 香格里拉
+---
+
+
+
+9月7日 星期四 阴 飞来寺——中甸
+
+
+
+4点钟醒来，赶紧到走廊观察天色，虽然云特别多，但月亮还是从云中露出脸来，心里有点踏实，藏民们已经在烤火了。6点再醒来，整个天一片白，极度的失望。拿着相机到楼下观景台等着，希望云雾能奇迹般散开。等了一个多种头，整个天都亮了，奇迹还是没有发生，厚厚的云层低低地盖在我们头上。
+
+
+
+<白马垭口>
+
+
+
+吃完早餐，失望地离去，大家在车上沉默着，昏昏睡去。可能这几天休息不够，汽车转了许多弯之后，我开始有强烈的晕车感觉。到白马垭口的时候停车休息，终于可以出去透透气。正好这边拴着两只藏獒，让俺忘记了疲劳。车外不知道是几度，特别特别冷，给藏獒拍了两张，赶紧缩回车里。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh7svYt5BLc0HwJpjatv9_DTxG7Jf5xvsf4wiKVSN1vTuSfxaftM8RlR1TpOxtdu_wQNsfqy7uAFmMkwDqTwEt7YwXhwxIB6OFgeZu4BzGQUywUUuPJrk7qI)
+
+
+
+继续着晕车的感觉，好不容易挨到奔子栏，被司机看出一脸的疲惫。解决午餐，继续上车，继续感受晕车的感觉。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh8DoCbSYyYFtuvmmW-AdapTZs-mKRorh8JPRFxATgoJ87mW_2bHK_eQ3eXv0-6J0c6IBoqRwCiuGhGHRJ0Hw6nMuoK2oRVuG5TR_kEtOaQ-q_4_ncfe84F8)
+
+
+
+<纳帕海>
+
+
+
+到了纳帕海，天气已经好了许多，下车拍照。问：不能下去拍吗？答：下去没什么好拍的，站在上面才能看到整个湖。挺不错的一个地方，可惜站在这里拍不出感觉。（不过后来看了帽子用长焦拍的局部还是挺不错的。）
+
+<!-- more -->
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh5TOPBKsLZBdX34n2WHLp2y9C2F--Ypz-QeByFDCHuf3-tPd1HnVUmMFe5xSd_ugDRnEwvewIJILltYxeWq64fgT9oDgxkzOka7ufRfenhkhOtWVsulljFs)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh0wc-fSk4_rKR9Y0UnWGdzgMblVKgojkRpRjsRUTQd2LHY0cjI6JFzrIdeuaf4SPg0DdjfvLKWaJ5mTNUS7n8Q_IOQdZuQjtuyxZmAttqG_TPWgEnoSjCv4)
+
+
+
+继续前进，一路上美景不断，可惜抓拍技术不过关。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh7SHxfwKwMNwjPfq2YhRM0zA79Z9L4c7cMfXRaWtWMqTPSMUcD3e_fyf5URgNo5WYN6aHfGjFWf_Erf_kVQgg6basktLN1IUjufbAv2W1lnrczatL3S_v5Q)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh-emLAMoi5YbkOhx4OO0RxtZOcgsg8FyS1pRqV8Fqil9wqhy7ZRV7OsOkWjomSLMaKh7dqMLD7eNXduO_65aeuqfCWEqPhHkSnbeX-0_T0em1isQ9S9v8Sc)
+
+
+
+<松赞林寺>
+
+
+
+接着到了松赞林寺，本只想拍拍外景，不过票都买了，也进去看看。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh-c5Ln7An4l_toAo6I7Rq6jdFWbD70UxIgQnNhBfb_n8gvczNjUFI6STMleT3JCv1dawR5gXtq4JFUzCVBs38R9hWf6QQNmRgBgDN7yYZqwXeO9MT9oghYo)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShw9z_go3qXYm-oTyu9j7-J5B3AN6JSmp0lh2XLvYo4qmxZAZNmWU-K8G8JuEwCq1t6ZcCQ-YTyzZ4FIJ0OE7VRhVHg5gYlKnu9QPRcTfiEMULWJ8RvKFzTQ)
+
+
+
+乱逛乱拍。见到可爱的小喇嘛，很天真活泼。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShxEIF7gYBkHkyO_EfvAkBmZXuBnsyLv1kXinlFOvKbSqGf2hegZqWjIqWZneXLVkNJC2EIYe9AKNhJZFEcwkV1fOKjhHwE0u-Rkqb7UPRd9f)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh-mnqGKdKebOBxTPc875vrd_7wyGJZpQLvc-2OZnag5Zc0Tm64YEJyYXKCuB1uZnAwb9lDURsKRdXC0z5V7UaTXmQAw9SO8hVNb0Sk1npLsx8IOPHL6s8aY)
+
+
+
+拍完出来拍外景，找不到好角度，纳闷网上那些人从哪里拍的。
+
+
+
+
+
+<独克宗古城>
+
+
+
+出了松寺来到一会便到了古城。跟丽江差不多，建筑风格有些不同，游客相对少一些，但也很商业化。觉得没什么好逛，一群人就在一个地方呆着，看着那些木制的小饰品。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh716Uzo0TaozrIpU9Nhjxb5PevlWJ8OyEDUb117ZVHMIDBov0Y-l1IgpZ9YUZGEhEgTJUQ-hhSI648gMQQaHnmDxKHu8stjKCx9VGCub0NiqoT3Tua3Vt9I)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh4LMhmGJ5Hp4GUQ5VhFHpsZfAdYc6bwZJkkkc1ipmGNHxc4xvixdusrD32gRyp1i3OYy_tYp-Lra54XdGqdH-1Oum1HGU_hMWEbaNSW1Rdu0TYE6zgExbds)
+
+
+
+此间还有人牵着一藏獒经过四方街，引起四方街内小流浪狗的一阵骚动。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShzb8Xdo-rWFmZcy31i1AkctwuxO_OhI_C0XKdQZnMfsWFNVy-d3g2GJJSArZJCIjx--aWSOsWPLV2RSRQdsmAviKbo1We4n-tzSTHQjPSLntinNgqO3xPlY)
+
+
+
+后来据说往里走是本地的民居，可惜没走太深入。
+
+
+
+<中甸>
+
+
+
+住中甸某某酒店，前面是草地，开着许多不知名小花和狼毒。试着拍一些片，但缺少合适的光线，拍不出感觉。后来太阳从云中透出了几束光线，一阵激动，却也无法找到合适的角度。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlShyZARAXrYZGaLdW8LpTrNEbY5LXTaSemjqLEkBAsFIvOMC054sNJGHCdTX8CD6Ca_FvtGUcnuOzWFRppK4E7vIWsSAlNp4Ew-o4b20exYYADsOUhkvixhgk)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh5J2Oe--To9UcVgRCzzWxjiHyPS7FOLRBhWXT--sYfTeuYhKoXl8j8_370yiIyJNNs8yUD6sYAJJz_inhJW6aMUPTPAYbKJdaJvAH4jAvgDkShzsacmrtJ4)
+
+
+
+<藏民家的舞会>
+
+
+
+晚上到藏民家体验歌舞晚会，吃藏餐。烤乳牛、乳猪，味道还行，不过没吃完。还有青稞酒，没什么感觉。
+
+
+
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh5IWZxGEmXVU7bSZsvkV-yM8RTZAD6K9SGptrwgI1JEUkxuxXxD0iMqMSAv9b0C93FKwDTY_luk4StwH3iHLi4TthEdu7JCaewWTpjkYo551Mc-VDr_yyf0)
+![](http://tkfiles.storage.msn.com/x1pc_jqddVOWRmZwPWAHYlSh6BmkrIxiiCAxAuEKqf3wYgcNin_7CQLcAjo7ciXa36ui80vlGwROOeq_cdiKo62dBSjGB3IB3PSpvgnPZOL54yzm6NKMDaZMn1f6hIH1cV7o0juF4FI-eo)
+
+
