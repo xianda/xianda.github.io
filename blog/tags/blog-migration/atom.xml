@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: blog migration | 达的回忆录]]></title>
+  <link href="http://wangxianda.cn/blog/tags/blog-migration/atom.xml" rel="self"/>
+  <link href="http://wangxianda.cn/"/>
+  <updated>2014-01-31T16:02:24+08:00</updated>
+  <id>http://wangxianda.cn/</id>
+  <author>
+    <name><![CDATA[Xianda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[新宅入住了！]]></title>
+    <link href="http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog/"/>
+    <updated>2014-01-31T00:11:01+08:00</updated>
+    <id>http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog</id>
+    <content type="html"><![CDATA[<p>我苦命的博客经过多次搬迁，现在此处入住啦！使用的是 <a href="http://octopress.org">octopress</a> + <a href="https://github.com">github</a>。不过，这不会是一个技术博客。</p>
+
+<p>早年写过一篇 <a href="/blog/2010/04/04/migration-of-my-blog/">博客搬家血泪史</a>，讲述了我的博客从 Live Space 搬到 blogger 再搬到 yo2.cn 再搬到 35.cn 的辛酸故事。但后来的故事更加辛酸：35.cn 的访问速度非常慢，而 yo2.cn 合并到 blogcn，然后我就搬回 yo2.cn 了；结果没多久人家要收费，我再搬到 wordpress.com.cn。一直以来使用 Live Writer 离线编辑 wordpress 确实很方便，但是折腾多了也没什么动力再经常更新了。当然，更重要的是观众没了，大家都跑去玩微博了。</p>
+
+<p>直到很久前，老马发了这个 octopress 给我看，当时觉得挺不错，但想到要从 wordpress 迁移过来得花不少精力，于是又一直搁置了下来。现在终于过年放长假了，整整花了一天半时间把 wordpress 给迁移过来了。想了解 octopress 搭建和迁移细节的人，继续往下看吧。其他人，祝你们新年快乐！</p>
+
+<!-- more -->
+
+
+<h3>搭建 octopress</h3>
+
+<p>按 octopress 文档的指引，发布到 github 就行了。我同时配了 wangxianda.cn 和 www.wangxianda.cn 两个域名。</p>
+
+<h3>从 wordpress 迁移</h3>
+
+<p>使用了 <a href="https://github.com/thomasf/exitwp">exitwp</a>，按照其文档描述，把 wp 博客导出，运行命令进行转换，把转换出来的文章拷到 octopress 的相关目录下就可以了。</p>
+
+<p>不过面临的一个问题就是文件名和文章的URL（slug）是原中文标题的 URL encode 格式，最后花了很多时间一个个改成英文……还好，总共只有几十篇文章！</p>
+
+<p>很多文章的图片还是引用自当年的 Live Space 相册，所幸的是这么多年过去了，虽然变成了 SkyDrive，但地址还是兼容的，而且现在的 SkyDrive 访问速度比以前快了很多。</p>
+
+<h3>配置</h3>
+
+<p>测试发现侧边栏默认没有熟悉的标签云和分类列表。先参考了老马的配置，加了 <a href="https://github.com/ctdk/octopress-category-list">octopress-category-list</a>。不过发现 octopress 不支持中文分类，接着上网找到了 octopress 2.1 分支已经支持中文分类，但 octopress-category-list 仍然没有支持（或是我没找到），自己 <a href="https://github.com/xianda/octopress-category-list">fork 了一个</a> 合并了 octopress 2.1 的修改并改了几行代码解决了这个问题。</p>
+
+<p>标签云则是添加了 <a href="https://github.com/robbyedwards/octopress-tag-pages">octopress-tag-pages</a> 和 <a href="https://github.com/robbyedwards/octopress-tag-cloud">octopress-tag-cloud</a>，算是把这两个常用功能给加上了。</p>
+
+<p>最后再注册一个 <a href="http://disqus.com">Disqus</a> 的帐号打开评论功能，大功告成。</p>
+]]></content>
+  </entry>
+  
+</feed>

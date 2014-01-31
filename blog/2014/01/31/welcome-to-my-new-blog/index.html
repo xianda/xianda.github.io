@@ -1,0 +1,336 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>新宅入住了！ - 达的回忆录</title>
+  <meta name="author" content="Xianda">
+
+  
+  <meta name="description" content="我苦命的博客经过多次搬迁，现在此处入住啦！使用的是 octopress + github。不过，这不会是一个技术博客。 早年写过一篇 博客搬家血泪史，讲述了我的博客从 Live Space 搬到 blogger 再搬到 yo2.cn 再搬到 35.cn 的辛酸故事。但后来的故事更加辛酸：35.cn &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="达的回忆录" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">达的回忆录</a></h1>
+  
+    <h2>人生的路，要慢慢走……</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:wangxianda.cn" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">新宅入住了！</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-31T00:11:01+08:00" pubdate data-updated="true">Jan 31<span>st</span>, 2014</time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://wangxianda.cn">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>我苦命的博客经过多次搬迁，现在此处入住啦！使用的是 <a href="http://octopress.org">octopress</a> + <a href="https://github.com">github</a>。不过，这不会是一个技术博客。</p>
+
+<p>早年写过一篇 <a href="/blog/2010/04/04/migration-of-my-blog/">博客搬家血泪史</a>，讲述了我的博客从 Live Space 搬到 blogger 再搬到 yo2.cn 再搬到 35.cn 的辛酸故事。但后来的故事更加辛酸：35.cn 的访问速度非常慢，而 yo2.cn 合并到 blogcn，然后我就搬回 yo2.cn 了；结果没多久人家要收费，我再搬到 wordpress.com.cn。一直以来使用 Live Writer 离线编辑 wordpress 确实很方便，但是折腾多了也没什么动力再经常更新了。当然，更重要的是观众没了，大家都跑去玩微博了。</p>
+
+<p>直到很久前，老马发了这个 octopress 给我看，当时觉得挺不错，但想到要从 wordpress 迁移过来得花不少精力，于是又一直搁置了下来。现在终于过年放长假了，整整花了一天半时间把 wordpress 给迁移过来了。想了解 octopress 搭建和迁移细节的人，继续往下看吧。其他人，祝你们新年快乐！</p>
+
+<!-- more -->
+
+
+<h3>搭建 octopress</h3>
+
+<p>按 octopress 文档的指引，发布到 github 就行了。我同时配了 wangxianda.cn 和 www.wangxianda.cn 两个域名。</p>
+
+<h3>从 wordpress 迁移</h3>
+
+<p>使用了 <a href="https://github.com/thomasf/exitwp">exitwp</a>，按照其文档描述，把 wp 博客导出，运行命令进行转换，把转换出来的文章拷到 octopress 的相关目录下就可以了。</p>
+
+<p>不过面临的一个问题就是文件名和文章的URL（slug）是原中文标题的 URL encode 格式，最后花了很多时间一个个改成英文……还好，总共只有几十篇文章！</p>
+
+<p>很多文章的图片还是引用自当年的 Live Space 相册，所幸的是这么多年过去了，虽然变成了 SkyDrive，但地址还是兼容的，而且现在的 SkyDrive 访问速度比以前快了很多。</p>
+
+<h3>配置</h3>
+
+<p>测试发现侧边栏默认没有熟悉的标签云和分类列表。先参考了老马的配置，加了 <a href="https://github.com/ctdk/octopress-category-list">octopress-category-list</a>。不过发现 octopress 不支持中文分类，接着上网找到了 octopress 2.1 分支已经支持中文分类，但 octopress-category-list 仍然没有支持（或是我没找到），自己 <a href="https://github.com/xianda/octopress-category-list">fork 了一个</a> 合并了 octopress 2.1 的修改并改了几行代码解决了这个问题。</p>
+
+<p>标签云则是添加了 <a href="https://github.com/robbyedwards/octopress-tag-pages">octopress-tag-pages</a> 和 <a href="https://github.com/robbyedwards/octopress-tag-cloud">octopress-tag-cloud</a>，算是把这两个常用功能给加上了。</p>
+
+<p>最后再注册一个 <a href="http://disqus.com">Disqus</a> 的帐号打开评论功能，大功告成。</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Xianda</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-01-31T00:11:01+08:00" pubdate data-updated="true">Jan 31<span>st</span>, 2014</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/essay/'>唠叨</a>
+  
+</span>
+
+
+      
+
+<span class="tags">
+  
+    <a class='tag' href='/blog/tags/blog-migration/'>blog migration</a>, <a class='tag' href='/blog/tags/octopress/'>octopress</a>, <a class='tag' href='/blog/tags/octopress-category-list/'>octopress-category-list</a>, <a class='tag' href='/blog/tags/wordpress/'>wordpress</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog/" data-via="" data-counturl="http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/07/07/semporna-8-tawau-kk/" title="Previous Post: 仙本那-8-斗湖 & 亚庇">&laquo; 仙本那-8-斗湖 & 亚庇</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/01/31/welcome-to-my-new-blog/">新宅入住了！</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/07/07/semporna-8-tawau-kk/">仙本那-8-斗湖 & 亚庇</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/07/06/semporna-7-singamata-mantabuan/">仙本那-7-Singamata & Mantabuan</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/07/05/semporna-6-marbu/">仙本那-6-马布</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/07/04/semporna-5-sipadan/">仙本那-5-Sipadan</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/06/10/semporna-4-relax/">仙本娜-4-悠闲的时光</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/06/03/semporna-3-singamata/">仙本那-3-Singamata</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/27/semporna-2-go/">仙本那-2-出发</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/03/18/semporna-1-intro/">仙本那-1-行程</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2011/12/04/trekking-at-qizanggou-5/">七藏沟-5-出山</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Categories</h1>
+    <ul id="category-list"><li><a href='/blog/categories/2006-yunnan'>06云南行 (10)</a></li><li><a href='/blog/categories/2007-minya-konka'>07贡嘎行 (3)</a></li><li><a href='/blog/categories/2007-muli-yading'>07木里亚丁行 (10)</a></li><li><a href='/blog/categories/2008-minya-konka'>08贡嘎行 (11)</a></li><li><a href='/blog/categories/2010-nianbaoyuze'>10年保玉则 (5)</a></li><li><a href='/blog/categories/2011-qizanggou'>11七藏沟 (5)</a></li><li><a href='/blog/categories/2012-semporna'>12仙本那 (8)</a></li><li><a href='/blog/categories/dadanxia'>大丹霞 (1)</a></li><li><a href='/blog/categories/essay'>唠叨 (13)</a></li><li><a href='/blog/categories/hiking'>随便走走 (4)</a></li><li><a href='/blog/categories/mount-qiyun'>齐云山 (1)</a></li><li><a href='/blog/categories/mount-wugong'>武功山 (3)</a></li><li><a href='/blog/categories/music'>音乐 (1)</a></li><li><a href='/blog/categories/outdoor'>户外 (46)</a></li><li><a href='/blog/categories/photography'>摄影 (9)</a></li><li><a href='/blog/categories/photography-equipment'>器材 (5)</a></li><li><a href='/blog/categories/shenzhen-100km'>深圳百公里 (3)</a></li><li><a href='/blog/categories/travel'>旅游 (47)</a></li></ul>
+</section>
+<section>
+  <h1>Tags</h1>
+  <ul class="tag-cloud">
+<a style="font-size: 60%" href="/blog/tags/d50/">D50</a>
+<a style="font-size: 92%" href="/blog/tags/qian-shui/">潜水</a>
+<a style="font-size: 60%" href="/blog/tags/xia-luo-duo-ji/">夏洛多吉</a>
+<a style="font-size: 92%" href="/blog/tags/ma-bu/">马布</a>
+<a style="font-size: 60%" href="/blog/tags/ruo-er-gai/">若尔盖</a>
+<a style="font-size: 110%" href="/blog/tags/shen-zhen-bai-gong-li/">深圳百公里</a>
+<a style="font-size: 60%" href="/blog/tags/niu-nai-hai/">牛奶海</a>
+<a style="font-size: 92%" href="/blog/tags/wordpress/">wordpress</a>
+<a style="font-size: 110%" href="/blog/tags/yu-beng/">雨崩</a>
+<a style="font-size: 60%" href="/blog/tags/ming-yong-bing-chuan/">明永冰川</a>
+<a style="font-size: 60%" href="/blog/tags/luo-rong-niu-chang/">洛绒牛场</a>
+<a style="font-size: 123%" href="/blog/tags/lao-yu-lin/">老榆林</a>
+<a style="font-size: 60%" href="/blog/tags/livekong-jian/">live空间</a>
+<a style="font-size: 60%" href="/blog/tags/sipadan/">Sipadan</a>
+<a style="font-size: 60%" href="/blog/tags/blog-migration/">blog migration</a>
+<a style="font-size: 92%" href="/blog/tags/jiu-hai-zi/">九海子</a>
+<a style="font-size: 60%" href="/blog/tags/uncle-chang/">Uncle Chang</a>
+<a style="font-size: 60%" href="/blog/tags/za-ba-la-wu-kou/">杂巴拉垭口</a>
+<a style="font-size: 60%" href="/blog/tags/na-pa-hai/">纳帕海</a>
+<a style="font-size: 110%" href="/blog/tags/singamata/">Singamata</a>
+<a style="font-size: 92%" href="/blog/tags/pan-pan-shan/">盘盘山</a>
+<a style="font-size: 92%" href="/blog/tags/mao-feng-shan/">帽峰山</a>
+<a style="font-size: 60%" href="/blog/tags/ban-jia/">搬家</a>
+<a style="font-size: 60%" href="/blog/tags/hong-xing-hai/">红星海</a>
+<a style="font-size: 60%" href="/blog/tags/cang-bie/">藏别</a>
+<a style="font-size: 60%" href="/blog/tags/wu-se-hai/">五色海</a>
+<a style="font-size: 92%" href="/blog/tags/kang-ding/">康定</a>
+<a style="font-size: 123%" href="/blog/tags/ya-ding/">亚丁</a>
+<a style="font-size: 60%" href="/blog/tags/qu-niu-a-cuo/">曲纽阿措</a>
+<a style="font-size: 60%" href="/blog/tags/ben-zi-lan/">奔子栏</a>
+<a style="font-size: 110%" href="/blog/tags/gong-ga-si/">贡嘎寺</a>
+<a style="font-size: 155%" href="/blog/tags/xian-ben-na/">仙本那</a>
+
+  </ul>
+</section>
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Xianda -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'xianda';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog/';
+        var disqus_url = 'http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

@@ -4,7 +4,7 @@
   <title><![CDATA[达的回忆录]]></title>
   <link href="http://wangxianda.cn/atom.xml" rel="self"/>
   <link href="http://wangxianda.cn/"/>
-  <updated>2014-01-31T00:03:11+08:00</updated>
+  <updated>2014-01-31T16:02:24+08:00</updated>
   <id>http://wangxianda.cn/</id>
   <author>
     <name><![CDATA[Xianda]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[新宅入住了！]]></title>
+    <link href="http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog/"/>
+    <updated>2014-01-31T00:11:01+08:00</updated>
+    <id>http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog</id>
+    <content type="html"><![CDATA[<p>我苦命的博客经过多次搬迁，现在此处入住啦！使用的是 <a href="http://octopress.org">octopress</a> + <a href="https://github.com">github</a>。不过，这不会是一个技术博客。</p>
+
+<p>早年写过一篇 <a href="http://wangxianda.cn/blog/2010/04/04/migration-of-my-blog/">博客搬家血泪史</a>，讲述了我的博客从 Live Space 搬到 blogger 再搬到 yo2.cn 再搬到 35.cn 的辛酸故事。但后来的故事更加辛酸：35.cn 的访问速度非常慢，而 yo2.cn 合并到 blogcn，然后我就搬回 yo2.cn 了；结果没多久人家要收费，我再搬到 wordpress.com.cn。一直以来使用 Live Writer 离线编辑 wordpress 确实很方便，但是折腾多了也没什么动力再经常更新了。当然，更重要的是观众没了，大家都跑去玩微博了。</p>
+
+<p>直到很久前，老马发了这个 octopress 给我看，当时觉得挺不错，但想到要从 wordpress 迁移过来得花不少精力，于是又一直搁置了下来。现在终于过年放长假了，整整花了一天半时间把 wordpress 给迁移过来了。想了解 octopress 搭建和迁移细节的人，继续往下看吧。其他人，祝你们新年快乐！</p>
+
+<!-- more -->
+
+
+<h3>搭建 octopress</h3>
+
+<p>按 octopress 文档的指引，发布到 github 就行了。我同时配了 wangxianda.cn 和 www.wangxianda.cn 两个域名。</p>
+
+<h3>从 wordpress 迁移</h3>
+
+<p>使用了 <a href="https://github.com/thomasf/exitwp">exitwp</a>，按照其文档描述，把 wp 博客导出，运行命令进行转换，把转换出来的文章拷到 octopress 的相关目录下就可以了。</p>
+
+<p>不过面临的一个问题就是文件名和文章的URL（slug）是原中文标题的 URL encode 格式，最后花了很多时间一个个改成英文……还好，总共只有几十篇文章！</p>
+
+<p>很多文章的图片还是引用自当年的 Live Space 相册，所幸的是这么多年过去了，虽然变成了 SkyDrive，但地址还是兼容的，而且现在的 SkyDrive 访问速度比以前快了很多。</p>
+
+<h3>配置</h3>
+
+<p>测试发现侧边栏默认没有熟悉的标签云和分类列表。先参考了老马的配置，加了 <a href="https://github.com/ctdk/octopress-category-list">octopress-category-list</a>。不过发现 octopress 不支持中文分类，接着上网找到了 octopress 2.1 分支已经支持中文分类，但 octopress-category-list 仍然没有支持（或是我没找到），自己 <a href="https://github.com/xianda/octopress-category-list">fork 了一个</a> 合并了 octopress 2.1 的修改并改了几行代码解决了这个问题。</p>
+
+<p>标签云则是添加了 <a href="https://github.com/robbyedwards/octopress-tag-pages">octopress-tag-pages</a> 和 <a href="https://github.com/robbyedwards/octopress-tag-cloud">octopress-tag-cloud</a>，算是把这两个常用功能给加上了。</p>
+
+<p>最后再注册一个 <a href="http://disqus.com">Disqus</a> 的帐号打开评论功能，大功告成。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[仙本那-8-斗湖 & 亚庇]]></title>
@@ -1118,39 +1154,6 @@ SJ家住宿：150RM</p>
 <p>FB，好辣的江西菜！这时才发现啤酒还是不错的东西。酒饱饭足，直奔火车站，发现来得太早了，无所事事，车站又热得要命，这天萍乡的温度最高31度，而这个车站比外面要热好几度，真难受，又累得不想动了，只能摊在椅子上，发呆。</p>
 
 <p>挤车，上床，呼呼大睡，一觉醒来天已亮，打开手机一看，到花都了。出站，走了无穷远才到出租车上客点，直奔住处。回来也不困，打扫房间，出去早餐，又买了吃的回来，上网，直到下午才倒下了。好累，也很爽，再累也比上班强。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[博客搬家血泪史]]></title>
-    <link href="http://wangxianda.cn/blog/2010/04/04/migration-of-my-blog/"/>
-    <updated>2010-04-04T19:03:55+08:00</updated>
-    <id>http://wangxianda.cn/blog/2010/04/04/migration-of-my-blog</id>
-    <content type="html"><![CDATA[<p>去年嫌弃<a href="http://sandycreep.spaces.live.com/">Live space</a>不好用，国内的博客又都看不上眼，相当苦恼，国内这么多IT人才，咋就没做出个有水平的博客呢。</p>
-
-<h3><strong>Blogger</strong></h3>
-
-<p>后来呆一天才突然想起为啥不放眼国外呢？毫无疑问，想到了大名鼎鼎的blogger，花了不少时间终于找到个能够搬家的工具：<a href="http://miian.com/zh-hans/blogsync">BlogSync</a>。不过还是比较麻烦。首先是Live space只支持一次获取20篇文章，而css feed方式并不适用于Live Space，因为取出来的只有首页的内容，还包括相册。所以现在要同步完20篇之后把已经同步的从Live Space中删去，再执行下一次同步。其中还出现了一次差错，把一篇未同步成功的文章也删除了，还好在百度快照中找到了，把内容复制回来重新发了贴，嘿嘿。其次是Blogger最多每天发50篇文章。不过没关系，我仍然执着地完成了这个艰巨的任务，看着自己辛苦劳动的成果，心里美滋滋的。</p>
-
-<p>然而一场灾难正悄悄临近，我却没有任何察觉——那是不可能察觉得到的。才搬完不到一个星期，有人告诉我无法访问。赶紧尝试，果然不行，算了，等几天看看，想不到NO1的blogger居然也有不能访问的时候。不过我还是错误地估计了形势，blogger没再能访问过，我终于知道了，被GFW了，伟大的防火墙！</p>
-
-<h3><strong>YO2.CN</strong></h3>
-
-<p>失落了好一段时间，仍然没看上国内的博客，既然用不了blogger，那么剩下的只有一个——<a href="http://www.wordpress.com">WordPress</a>。于是在网上到处找WP的免费博客，终于发现了一家，<a href="http://yo2.cn">YO2</a>。于是继续借助BlogSync，把blogger搬了过去。很幸运的是，即使blogger不能访问，但仍然能通过BlogSync搬出来，这次不麻烦。</p>
-
-<p>终于搬完，看到分类没有同步过来，只好一篇一篇地重新分类，再加上标签。所幸的是可以用Windows Live Writer进行离线编辑。但事实上我现在才发现，在线编辑分类和标签比Live Writer要简单……</p>
-
-<p>好吧，虽然麻烦些，终于有个新家了，WP怎么看都比国内开发的那些强，简单实用才是好。</p>
-
-<p> <!-- more --></p>
-
-<p>可是，这世上居然有我这么悲惨的遭遇，灾难第二次降临！随着一声加强网络管理的命令，大量网站纷纷被关闭，这个似乎手续不齐全的YO2也没能幸免。我想你们也就去办个手续吧，赶紧弄完再开吧，结果遥遥无期，最近终于看到结果——搬到HK，需要代理才能访问……好吧，没有任何价值了。</p>
-
-<h3><strong>blog@35</strong></h3>
-
-<p>不甘心啊，继续找找有没其它的WP吧。看到有人说一个<a href="http://blog.35.cn">blog.35.cn</a>也是WP的，虽然一看域名就觉得特业余，特山寨，让我想起什么“2828咔咔就是发”之类的，不过苦于没什么选择，也去看看再作决定吧。偶然看到是一家上市公司，赶紧一查，三五互联300051，还真是呢！好吧，既然上市了，手续应该齐全，实力也不差吧，于是又继续忙活了……</p>
-
-<p>大致浏览了一下三五互联的网站，发现跟国内其它同类公司不同，简洁多了，技术团队貌似也是比较有实力。希望这个博客能长时间维持下去，毕竟是国内难得一见的免费WP博客，这种简洁风格肯定能大受欢迎。做好了，我也买你们股票哦！</p>
 ]]></content>
   </entry>
   
