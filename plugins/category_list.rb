@@ -97,14 +97,12 @@ module Jekyll
       category_dir = config['root'] + config['category_dir'] + '/'
       categories = context.registers[:site].categories
       categories.keys.sort_by{ |str| str.downcase }.each do |category|
-        #url = category_dir + category.gsub(/_|\P{Word}/u, '-').gsub(/-{2,}/u, '-').downcase
-        #html << "<li><a href='#{url}'>#{category}"
-		if category =~ /(.+)\[(.+)\]/
-		    slug = $1.strip
-		    title = $2.strip
-		else
-		    slug = title = category
-		end
+        if category =~ /(.+)\[(.+)\]/
+          slug = $1.strip
+          title = $2.strip
+        else
+          slug = title = category
+        end
         url = category_dir + slug.gsub(/_|\P{Word}/u, '-').gsub(/-{2,}/u, '-').downcase
         html << "<li><a href='#{url}'>#{title}"
         if @opts['counter']
@@ -136,13 +134,19 @@ module Jekyll
       categories = context.registers[:site].categories
       cat_limit = config['top_category_limit'] || 10
       if (@opts['include_all'] || config['top_category_limit'] == 0)
-	top_categories = categories.keys.sort_by{ |cat| categories[cat].count  }.reverse
+        top_categories = categories.keys.sort_by{ |cat| categories[cat].count  }.reverse
       else
-	top_categories = categories.keys.sort_by{ |cat| categories[cat].count  }.reverse.take(cat_limit)
+        top_categories = categories.keys.sort_by{ |cat| categories[cat].count  }.reverse.take(cat_limit)
       end
       top_categories.each do |category|
-        url = category_dir + category.gsub(/_|\P{Word}/u, '-').gsub(/-{2,}/u, '-').downcase
-        html << "<li><a href='#{url}'>#{category}"
+        if category =~ /(.+)\[(.+)\]/
+            slug = $1.strip
+            title = $2.strip
+        else
+            slug = title = category
+        end
+        url = category_dir + slug.gsub(/_|\P{Word}/u, '-').gsub(/-{2,}/u, '-').downcase
+        html << "<li><a href='#{url}'>#{title}"
         if @opts['counter']
           html << " (#{categories[category].count})"
         end
