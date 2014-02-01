@@ -13,7 +13,7 @@ tags:
 - 年保玉则
 ---
 
-![](http://pic.yupoo.com/wxda/Bty0mFPn/medish.jpg)
+{% photo Bty0mFPn/large.jpg %}
 
 
 
@@ -49,11 +49,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/Bty0iePS/medish.jpg)
+{% photo Bty0iePS/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/Bty0jvkC/medish.jpg)
+{% photo Bty0jvkC/large.jpg %}
 
 
 
@@ -69,7 +69,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/Bty0kWw4/medish.jpg)
+{% photo Bty0kWw4/large.jpg %}
 
 
 

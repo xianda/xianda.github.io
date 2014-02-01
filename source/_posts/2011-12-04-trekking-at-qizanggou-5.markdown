@@ -13,7 +13,7 @@ tags:
 - 七藏沟
 ---
 
-![](http://pic.yupoo.com/wxda/BsoNXnJw/medish.jpg)
+{% photo BsoNXnJw/large.jpg %}
 
 
 
@@ -25,7 +25,7 @@ tags:
 
  <!-- more -->
 
-![](http://pic.yupoo.com/wxda/BssbNObX/medish.jpg)
+{% photo BssbNObX/large.jpg %}
 
 
 
@@ -41,7 +41,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BssbRldq/medish.jpg)
+{% photo BssbRldq/large.jpg %}
 
 
 
@@ -49,7 +49,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BssbYSx4/medish.jpg)
+{% photo BssbYSx4/large.jpg %}
 
 
 

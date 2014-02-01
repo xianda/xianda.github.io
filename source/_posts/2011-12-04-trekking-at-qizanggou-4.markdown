@@ -14,7 +14,7 @@ tags:
 - 红星海
 ---
 
-![](http://pic.yupoo.com/wxda/BsoNGRvc/medish.jpg)
+{% photo BsoNGRvc/large.jpg %}
 
 
 
@@ -22,7 +22,7 @@ tags:
 
  <!-- more -->
 
-![](http://pic.yupoo.com/wxda/BsoNiZ80/medish.jpg)
+{% photo BsoNiZ80/large.jpg %}
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNrhaU/medish.jpg)
+{% photo BsoNrhaU/large.jpg %}
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/By7bwxiH/medish.jpg)
+{% photo By7bwxiH/large.jpg %}
 
 
 
@@ -46,7 +46,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNwi6z/medish.jpg)
+{% photo BsoNwi6z/large.jpg %}
 
 
 
@@ -54,7 +54,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNy3Jv/medish.jpg)
+{% photo BsoNy3Jv/large.jpg %}
 
 
 
@@ -62,7 +62,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNBLoc/medish.jpg)
+{% photo BsoNBLoc/large.jpg %}
 
 
 
@@ -70,7 +70,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNDriE/medish.jpg)
+{% photo BsoNDriE/large.jpg %}
 
 
 
@@ -78,19 +78,19 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsslEY9e/medish.jpg)
+{% photo BsslEY9e/large.jpg %}
 
 
 
 时间尚早，我们一群人或者静静地坐在湖边享受着天堂般的美景，或者在湖边摆着各种POSE记录着自己甜蜜时光。我却有点不知如何拍这美丽的湖拍下来，总觉得无论哪个角度，都无法诠释红星海真正的美丽。
 
-![](http://pic.yupoo.com/wxda/BsoNJaQh/medish.jpg)
+{% photo BsoNJaQh/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BsoNKQ7l/medish.jpg)
+{% photo BsoNKQ7l/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNORVC/medish.jpg)
+{% photo BsoNORVC/large.jpg %}
 
 
 
@@ -98,7 +98,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNS5Ms/medish.jpg)
+{% photo BsoNS5Ms/large.jpg %}
 
 
 
@@ -106,4 +106,4 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNTCgO/medish.jpg)
+{% photo BsoNTCgO/large.jpg %}

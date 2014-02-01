@@ -13,7 +13,7 @@ tags:
 - 齐云山
 ---
 
-![](http://pic.yupoo.com/wxda/AMcCv8mB/4Ozud.jpg)
+{% photo AMcCv8mB/large.jpg %}
 
 
 
@@ -29,7 +29,7 @@ tags:
 
  <!-- more -->
 
-![](http://pic.yupoo.com/wxda/AMcK4TL0/medium.jpg)
+{% photo AMcK4TL0/large.jpg %}
 
 
 
@@ -45,7 +45,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCrLBs/izUxM.jpg)
+{% photo AMcCrLBs/large.jpg %}
 
 
 
@@ -53,7 +53,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCx7o5/gSQgL.jpg)
+{% photo AMcCx7o5/large.jpg %}
 
 
 
@@ -73,7 +73,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcC8igX/6BKf4.jpg)
+{% photo AMcC8igX/large.jpg %}
 
 
 
@@ -81,11 +81,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCxFIC/10kIES.jpg)
+{% photo AMcCxFIC/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCbm8l/15DtT.jpg)
+{% photo AMcCbm8l/large.jpg %}
 
 
 
@@ -93,11 +93,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCdFc8/7ap7c.jpg)
+{% photo AMcCdFc8/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCfUeh/1cCVD.jpg)
+{% photo AMcCfUeh/large.jpg %}
 
 
 
@@ -105,11 +105,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcChq6H/cfvPs.jpg)
+{% photo AMcChq6H/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCjSF7/pufan.jpg)
+{% photo AMcCjSF7/large.jpg %}
 
 
 
@@ -117,11 +117,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCsEOr/gjXpd.jpg)
+{% photo AMcCsEOr/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/AMcClJBF/yTRe1.jpg)
+{% photo AMcClJBF/large.jpg %}
 
 
 
@@ -129,7 +129,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/AMcCqooi/PGftP.jpg)
+{% photo AMcCqooi/large.jpg %}
 
 
 

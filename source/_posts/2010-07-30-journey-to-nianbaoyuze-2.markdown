@@ -14,7 +14,7 @@ tags:
 - 若尔盖
 ---
 
-![](http://pic.yupoo.com/wxda/BtxXS4tr/medish.jpg)
+{% photo BtxXS4tr/large.jpg %}
 
 
 
@@ -54,11 +54,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXEHnG/medish.jpg)
+{% photo BtxXEHnG/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXGpIs/medish.jpg)
+{% photo BtxXGpIs/large.jpg %}
 
 
 
@@ -70,7 +70,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXJyHk/medish.jpg)
+{% photo BtxXJyHk/large.jpg %}
 
 
 
@@ -78,11 +78,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXMHIo/medish.jpg)
+{% photo BtxXMHIo/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtSATOeK/medish.jpg)
+{% photo BtSATOeK/large.jpg %}
 
 
 
@@ -90,11 +90,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXOpjZ/medish.jpg)
+{% photo BtxXOpjZ/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXQv7Z/medish.jpg)
+{% photo BtxXQv7Z/large.jpg %}
 
 
 

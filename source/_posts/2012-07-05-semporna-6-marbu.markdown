@@ -17,23 +17,23 @@ tags:
 
 结束了OW和Sipadan的三潜，接下来的这部分假期我们完全没有计划，属于随意发呆、各种挥霍时间的日子。
 
-![](http://pic.yupoo.com/wxda/BVF3ePqv/medish.jpg)
+{% photo BVF3ePqv/large.jpg %}
 
 这天从Sipadan回来时间还很早，于是剩下的时间就是在马布岛上寻欢作乐了。从Uncle Chang店里穿过当地人的老旧密集的水上屋，就到了岛上。晴朗的天气、碧蓝的大海，太适合拍照了！
 
 <!-- more -->
 
-![](http://pic.yupoo.com/wxda/BVF2Hwwd/medish.jpg)
+{% photo BVF2Hwwd/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF31NuA/medish.jpg)
+{% photo BVF31NuA/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF3mrsc/medish.jpg)
+{% photo BVF3mrsc/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF3zpA5/medish.jpg)
+{% photo BVF3zpA5/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVQk9drP/medish.jpg)
+{% photo BVQk9drP/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF3M7mC/medish.jpg)
+{% photo BVF3M7mC/large.jpg %}
 
 太阳西下，回去吃饭。路上顺便45RM买了四条巨大濑尿虾，回潜店找中国大厨加工。
 
@@ -41,19 +41,19 @@ tags:
 
 第二天一早起来呼吸新鲜空气，又被渔民诱惑买了海鲜：两条鱼、六只螃蟹、三只琵琶虾，总共才45RM。不过由于做了四道菜，结果加工费也要了40RM，貌似不太划算了，以后要全部蒸一大盘才行。其中最不划算的是鱼，两条鱼才5RM。其中一盘螃蟹蒸的时候加了水蛋，居然非常合味，水蛋把蟹流出的鲜味给吸收了，非常可口。琵琶虾有点类似濑尿虾，但其肉质更韧一些，而鲜味略差。
 
-![](http://pic.yupoo.com/wxda/BVQHyfsN/medish.jpg)
+{% photo BVQHyfsN/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF4lJa8/medish.jpg)
+{% photo BVF4lJa8/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF52QGl/medish.jpg)
+{% photo BVF52QGl/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF5qJGK/medish.jpg)
+{% photo BVF5qJGK/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF5uuif/medish.jpg)
+{% photo BVF5uuif/large.jpg %}
 
 鉴于UC店里的环境实在一般，我们想体验下传说中住宿条件好又价格不高的Scuba Junkie店，于是上午就去打探了一下。沙滩上的小木屋确实挺吸引人，很高端舒适的感觉。但询问了下只剩下一间风扇房，还要按人头收费。思想斗争了一下，还是订下了。石头决定继续住UC店，我们另外三人决定过来体验一下。
 
-![](http://pic.yupoo.com/wxda/BVF5VtNy/medish.jpg)
+{% photo BVF5VtNy/large.jpg %}
 
 SJ店的风扇房要150RM/人，UC店的空调房只要140RM/人。但SJ店还是值得赞一下的，整体环境比UC店好很多，卫生间也超大，很有档次的感觉。不过由于主要面向的是老外，自助餐是西式的，虽然做得很不错，但对中国人来说还是不如中餐那么可口。还有悲催的是到了晚上我们发现被晒的一天的小木屋真的非常非常热，确实需要空调房啊。看来马布的气温比仙本那不只高一点。
 
@@ -63,15 +63,15 @@ SJ店的风扇房要150RM/人，UC店的空调房只要140RM/人。但SJ店还�
 
 晚上继续没事，海滩上喝啤酒，然后跑去看海龟下蛋，然后拍星星，真是休闲的假期。
 
-![](http://pic.yupoo.com/wxda/BVHWDemc/medish.jpg)
+{% photo BVHWDemc/large.jpg %}
 
-![](http://pic.yupoo.com/wxda/BVF5AqA9/medish.jpg)
+{% photo BVF5AqA9/large.jpg %}
 
 第三天起来，天气不好，不过石头还是如约跑来找我们去游泳。我和Marc跑到海边的时候已经下雨了，石头跟UC店几个MM跑得不知所踪。我们在海里泡了下，发现海水比昨天退了非常非常多，脚底下满是珊瑚和海胆，只能小心翼翼地游着。没多久雨越下越多，然后雷声阵阵，我们只好赶紧撤退。由于水太浅，我不一小心手划过一个海胆，手指上被扎了一堆刺，阵阵剧痛。在水里弄半天没把刺弄出来，还痛得眼泪直流，只好等雷声一过赶紧上岸回店里求助。结果店员说没事，泡泡热水就行了。
 
 很快雨过天晴，石头也回来了。收拾行李，回到UC坐船离开马布。
 
-![](http://pic.yupoo.com/wxda/BVF6a6ri/medish.jpg)
+{% photo BVF6a6ri/large.jpg %}
 
 ### 费用
 

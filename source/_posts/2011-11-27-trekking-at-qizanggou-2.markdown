@@ -15,7 +15,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/By7blLWm/medish.jpg)
+{% photo By7blLWm/large.jpg %}
 
 
 
@@ -43,7 +43,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/By7aS0KP/medish.jpg)
+{% photo By7aS0KP/large.jpg %}
 
 
 
@@ -51,7 +51,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/By7aUsRB/medish.jpg)
+{% photo By7aUsRB/large.jpg %}
 
 
 
@@ -59,11 +59,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoLQXsp/medish.jpg)
+{% photo BsoLQXsp/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/By7b2Jv0/medish.jpg)
+{% photo By7b2Jv0/large.jpg %}
 
 
 
@@ -71,7 +71,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/By7aXq55/medish.jpg)
+{% photo By7aXq55/large.jpg %}
 
 
 
@@ -79,7 +79,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoLUU99/medish.jpg)
+{% photo BsoLUU99/large.jpg %}
 
 
 
@@ -87,25 +87,23 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoM24S1/medish.jpg)
+{% photo BsoM24S1/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/By7b9wRI/medish.jpg)
+{% photo By7b9wRI/large.jpg %}
 
 
 
->
->
-> 果然不出所料，今天的天气是越来越好，慢慢地露出了蓝天，时不时有阳光透过云层撒下来，这让我们之前的忧虑一扫而空。我们非常庆幸一直没有放弃，终于盼来了好天气。
->
->
->
-> ![](http://pic.yupoo.com/wxda/By7bcwW1/medish.jpg)
+
+果然不出所料，今天的天气是越来越好，慢慢地露出了蓝天，时不时有阳光透过云层撒下来，这让我们之前的忧虑一扫而空。我们非常庆幸一直没有放弃，终于盼来了好天气。
+
+
+{% photo By7bcwW1/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BsoMraCf/medish.jpg)
+{% photo BsoMraCf/large.jpg %}
 
 
 
@@ -117,11 +115,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/By7biVVu/medish.jpg)
+{% photo By7biVVu/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BsoMAlet/medish.jpg)
+{% photo BsoMAlet/large.jpg %}
 
 
 
@@ -129,7 +127,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoMGnPg/medish.jpg)
+{% photo BsoMGnPg/large.jpg %}
 
 
 
@@ -137,4 +135,4 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BsoMIfnA/medish.jpg)
+{% photo BsoMIfnA/large.jpg %}

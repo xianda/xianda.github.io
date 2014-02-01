@@ -13,7 +13,7 @@ tags:
 - 年保玉则
 ---
 
-![](http://pic.yupoo.com/wxda/Bty083zF/medish.jpg)
+{% photo Bty083zF/large.jpg %}
 
 
 
@@ -25,7 +25,7 @@ tags:
 
  <!-- more -->
 
-![](http://pic.yupoo.com/wxda/BtxYBETs/medish.jpg)
+{% photo BtxYBETs/large.jpg %}
 
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYK0D2/medish.jpg)
+{% photo BtxYK0D2/large.jpg %}
 
 
 
@@ -45,7 +45,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYNaUW/medish.jpg)
+{% photo BtxYNaUW/large.jpg %}
 
 
 
@@ -53,7 +53,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYRT8Z/medish.jpg)
+{% photo BtxYRT8Z/large.jpg %}
 
 
 
@@ -61,11 +61,13 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYUkhF/medish.jpg)晚餐时间仍然是二木在忙前忙后，我和周周都无精打采，更是一点胃口都没有。我在二木的强烈建议下喝了一大杯很浓的葡萄糖水，看看能否缓解一下高反。
+{% photo BtxYUkhF/large.jpg %}
+
+晚餐时间仍然是二木在忙前忙后，我和周周都无精打采，更是一点胃口都没有。我在二木的强烈建议下喝了一大杯很浓的葡萄糖水，看看能否缓解一下高反。
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZ33Lf/medish.jpg)
+{% photo BtxZ33Lf/large.jpg %}
 
 
 
@@ -73,11 +75,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZ6qdy/medish.jpg)
+{% photo BtxZ6qdy/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZ7Bay/medish.jpg)
+{% photo BtxZ7Bay/large.jpg %}
 
 
 
@@ -89,11 +91,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZf39d/medish.jpg)
+{% photo BtxZf39d/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZmjez/medish.jpg)
+{% photo BtxZmjez/large.jpg %}
 
 
 
@@ -101,11 +103,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZvZUw/medish.jpg)
+{% photo BtxZvZUw/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZCOlW/medish.jpg)
+{% photo BtxZCOlW/large.jpg %}
 
 
 
@@ -113,7 +115,7 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/Bty09T7A/medish.jpg)
+{% photo Bty09T7A/large.jpg %}
 
 
 
@@ -121,11 +123,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxZXxzK/medish.jpg)
+{% photo BtxZXxzK/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/Bty01t2H/medish.jpg)
+{% photo Bty01t2H/large.jpg %}
 
 
 

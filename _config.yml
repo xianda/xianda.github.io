@@ -100,3 +100,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# fancybox photos
+photos_prefix: http://pic.yupoo.com/wxda/

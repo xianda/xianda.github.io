@@ -14,7 +14,7 @@ tags:
 - 鱼海子
 ---
 
-![](http://pic.yupoo.com/wxda/BsoNdDaT/medish.jpg)
+{% photo BsoNdDaT/large.jpg %}
 
 
 
@@ -30,7 +30,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
  <!-- more -->
 
-![](http://pic.yupoo.com/wxda/BsoMMRb5/medish.jpg)
+{% photo BsoMMRb5/large.jpg %}
 
 
 
@@ -38,7 +38,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-![](http://pic.yupoo.com/wxda/BssbI3Y9/medish.jpg)
+{% photo BssbI3Y9/large.jpg %}
 
 
 
@@ -46,7 +46,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-![](http://pic.yupoo.com/wxda/BssbK4xO/medish.jpg)
+{% photo BssbK4xO/large.jpg %}
 
 
 
@@ -54,7 +54,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-![](http://pic.yupoo.com/wxda/By7bqJ1x/medish.jpg)
+{% photo By7bqJ1x/large.jpg %}
 
 
 
@@ -62,7 +62,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-![](http://pic.yupoo.com/wxda/BsoMTHqn/medish.jpg)
+{% photo BsoMTHqn/large.jpg %}
 
 
 
@@ -70,7 +70,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-![](http://pic.yupoo.com/wxda/BsoMXOrE/medish.jpg)
+{% photo BsoMXOrE/large.jpg %}
 
 
 
@@ -78,15 +78,15 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-![](http://pic.yupoo.com/wxda/By7btFdg/medish.jpg)
+{% photo By7btFdg/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BsoN7ymc/medish.jpg)
+{% photo BsoN7ymc/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BsoNcak2/medish.jpg)
+{% photo BsoNcak2/large.jpg %}
 
 
 

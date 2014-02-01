@@ -13,7 +13,7 @@ tags:
 - 年保玉则
 ---
 
-![](http://pic.yupoo.com/wxda/BtxY9mht/medish.jpg)
+{% photo BtxY9mht/large.jpg %}
 
 
 
@@ -31,11 +31,11 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXTLu2/medish.jpg)
+{% photo BtxXTLu2/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxXULz0/medish.jpg)
+{% photo BtxXULz0/large.jpg %}
 
 
 
@@ -47,15 +47,15 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxY0Wyz/medish.jpg)
+{% photo BtxY0Wyz/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxY73MZ/medish.jpg)
+{% photo BtxY73MZ/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYcBzK/medish.jpg)
+{% photo BtxYcBzK/large.jpg %}
 
 
 
@@ -71,15 +71,15 @@ tags:
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYk6XC/medish.jpg)
+{% photo BtxYk6XC/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYoLzT/medish.jpg)
+{% photo BtxYoLzT/large.jpg %}
 
 
 
-![](http://pic.yupoo.com/wxda/BtxYsT3O/medish.jpg)
+{% photo BtxYsT3O/large.jpg %}
 
 
 
