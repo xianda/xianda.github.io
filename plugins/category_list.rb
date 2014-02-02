@@ -88,6 +88,10 @@ module Jekyll
         @opts['counter'] = ($1 == 'true')
         markup = markup.strip.sub(/counter:\w+/iu,'')
       end
+      if markup.strip =~ /\s*format:(\w+)/iu
+        @opts['format'] = $1
+        markup = markup.strip.sub(/format:\w+/iu,'')
+      end
       super
     end
 
@@ -104,11 +108,18 @@ module Jekyll
           slug = title = category
         end
         url = category_dir + slug.gsub(/_|\P{Word}/u, '-').gsub(/-{2,}/u, '-').downcase
-        html << "<li><a href='#{url}'>#{title}"
-        if @opts['counter']
-          html << " (#{categories[category].count})"
+        if @opts['format'] == 'page'
+          html << "<article>"
+          html << "<h2 class='title'><a href='#{url}'>#{title}</a></h2>"
+          html << "<div class='meta'><div class='tags'>#{categories[category].count}</div></div>"
+          html << "</article>"
+        else
+          html << "<li><a href='#{url}'>#{title}"
+          if @opts['counter']
+            html << " (#{categories[category].count})"
+          end
+          html << "</a></li>"
         end
-        html << "</a></li>"
       end
       html
     end

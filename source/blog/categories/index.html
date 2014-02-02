@@ -1,0 +1,19 @@
+---
+layout: default
+title: Blog Categories
+---
+
+<div id="categories">
+  <section class="archives">
+    <h1 class="year">分类</h1>
+    {% category_list counter:true format:page %}
+  </section>
+  <section class="archives">
+    <h1 class="year">标签</h1>
+	<article>
+      <ul class="tag-cloud">
+        {% tag_cloud font-size: 60-165%, sort: rand, style: para %}
+      </ul>
+	</article>
+  </section>
+</div>
