@@ -8,7 +8,7 @@ title: 寻找香格里拉·第四天
 wordpress_id: 36
 categories:
 - 2006-yunnan [06云南行]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 冰湖
 - 笑农大本营

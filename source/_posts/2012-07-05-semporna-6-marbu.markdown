@@ -8,7 +8,7 @@ title: 仙本那-6-马布
 wordpress_id: 28343
 categories:
 - 2012-semporna [12仙本那]
-- travel [旅游]
+- travel [旅行]
 tags:
 - Scuba Junkie
 - 仙本那

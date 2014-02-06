@@ -8,7 +8,7 @@ title: 仙本那-2-出发
 wordpress_id: 28325
 categories:
 - 2012-semporna [12仙本那]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 仙本那
 ---

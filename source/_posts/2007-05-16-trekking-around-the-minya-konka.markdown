@@ -9,7 +9,7 @@ wordpress_id: 51
 categories:
 - 2007-minya-konka [07贡嘎行]
 - outdoor [户外]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 子梅垭口
 - 盘盘山

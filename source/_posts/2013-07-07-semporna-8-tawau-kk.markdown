@@ -8,7 +8,7 @@ title: 仙本那-8-斗湖 & 亚庇
 wordpress_id: 28353
 categories:
 - 2012-semporna [12仙本那]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 亚庇
 - 仙本那

@@ -9,7 +9,7 @@ wordpress_id: 53
 categories:
 - 2007-minya-konka [07贡嘎行]
 - outdoor [户外]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 攻略
 - 贡嘎

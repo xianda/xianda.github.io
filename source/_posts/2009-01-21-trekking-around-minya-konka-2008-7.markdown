@@ -9,7 +9,7 @@ wordpress_id: 8
 categories:
 - 2008-minya-konka [08贡嘎行]
 - outdoor [户外]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 热乌切垭口
 - 贡嘎

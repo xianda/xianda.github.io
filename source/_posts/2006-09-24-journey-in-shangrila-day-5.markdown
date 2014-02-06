@@ -8,7 +8,7 @@ title: 寻找香格里拉·第五天
 wordpress_id: 30
 categories:
 - 2006-yunnan [06云南行]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 明永冰川
 - 雨崩

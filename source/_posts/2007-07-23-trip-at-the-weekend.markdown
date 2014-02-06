@@ -7,7 +7,7 @@ slug: trip-at-the-weekend
 title: 活动记录：番禺一日游
 wordpress_id: 41
 categories:
-- travel [旅游]
+- travel [旅行]
 - hiking [随便走走]
 tags:
 - 大夫山

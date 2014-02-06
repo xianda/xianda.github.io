@@ -8,7 +8,7 @@ title: 仙本娜-4-悠闲的时光
 wordpress_id: 28330
 categories:
 - 2012-semporna [12仙本那]
-- travel [旅游]
+- travel [旅行]
 tags:
 - Singamata
 - 仙本那

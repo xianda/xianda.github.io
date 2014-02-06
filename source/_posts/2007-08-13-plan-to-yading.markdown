@@ -9,7 +9,7 @@ wordpress_id: 23
 categories:
 - 2007-muli-yading [07木里亚丁行]
 - outdoor [户外]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 亚丁
 - 木里

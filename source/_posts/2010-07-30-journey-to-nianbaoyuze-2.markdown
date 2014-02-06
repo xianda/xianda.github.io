@@ -8,7 +8,7 @@ title: 年保玉则-2-辗转
 wordpress_id: 28305
 categories:
 - 2010-nianbaoyuze [10年保玉则]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 年保玉则
 - 若尔盖

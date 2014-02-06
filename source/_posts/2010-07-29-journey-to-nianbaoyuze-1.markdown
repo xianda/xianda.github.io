@@ -8,7 +8,7 @@ title: 年保玉则-1-出发
 wordpress_id: 28304
 categories:
 - 2010-nianbaoyuze [10年保玉则]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 年保玉则
 ---

@@ -9,7 +9,7 @@ wordpress_id: 10
 categories:
 - 2008-minya-konka [08贡嘎行]
 - outdoor [户外]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 康定
 - 老榆林

@@ -9,7 +9,7 @@ wordpress_id: 62
 categories:
 - 2007-muli-yading [07木里亚丁行]
 - outdoor [户外]
-- travel [旅游]
+- travel [旅行]
 tags:
 - 木里
 - 白水河

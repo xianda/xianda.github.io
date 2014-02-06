@@ -8,7 +8,7 @@ title: 寻找香格里拉·序
 wordpress_id: 25
 categories:
 - 2006-yunnan [06云南行]
-- travel [旅游]
+- travel [旅行]
 ---
 
 

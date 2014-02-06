@@ -8,7 +8,7 @@ title: 仙本那-5-Sipadan
 wordpress_id: 28331
 categories:
 - 2012-semporna [12仙本那]
-- travel [旅游]
+- travel [旅行]
 tags:
 - Sipadan
 - Uncle Chang
