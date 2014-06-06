@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "taiwan-cycling-12-end"
+slug: "taiwan-cycling-12-end"
 title: 骑行台湾-12-结语
 date: 2014-03-16 19:23:25 +0800
 comments: true

@@ -59,10 +59,12 @@ module Jekyll
       # FIXME: This seems excessive
 	  if filename =~ /\/large\.jpg$/
         thumb = (thumb unless thumb == 'default') || filename.gsub(/large\.jpg$/, "medish.jpg")
-      elsif filename =~ /\.[^\/]+/
-        thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)$/, "_m.\\k<ext>")
+      #elsif filename =~ /\.[^\/]+/
+      #  thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)$/, "_m.\\k<ext>")
+      #else
+      #  thumb = (thumb unless thumb == 'default') || "#{filename}_m"
       else
-        thumb = (thumb unless thumb == 'default') || "#{filename}_m"
+        thumb = (thumb unless thumb == 'default') || "#{filename}"
       end
       path_for(thumb)
     end
