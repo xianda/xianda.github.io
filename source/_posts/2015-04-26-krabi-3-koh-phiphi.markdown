@@ -1,7 +1,7 @@
 ---
 layout: post
 slug: "krabi-3-koh-phiphi"
-title: "krabi-3 Koh Phiphi"
+title: "甲米-3 Koh Phiphi"
 date: 2015-04-26 11:53:58 +0800
 comments: true
 categories:
