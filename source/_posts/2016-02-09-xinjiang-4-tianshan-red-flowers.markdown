@@ -10,6 +10,8 @@ categories:
 Tags:
 - 新疆
 - 伊犁
+- 天山红花
+- 黑环罂粟
 ---
 
 {% photo ELryZ5MC/medish.jpg %}

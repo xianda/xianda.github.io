@@ -10,6 +10,7 @@ categories:
 Tags:
 - 新疆
 - 伊犁
+- 伊宁
 ---
 
 {% photo FiTVBKy0/medish.jpg %}

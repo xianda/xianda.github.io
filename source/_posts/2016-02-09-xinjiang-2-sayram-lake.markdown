@@ -10,6 +10,8 @@ categories:
 Tags:
 - 新疆
 - 伊犁
+- 赛里木湖
+- Sayram Lake
 ---
 
 {% photo ELrvOZBy/medish.jpg %}
