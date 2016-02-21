@@ -13,7 +13,7 @@ Tags:
 - 库尔德宁
 ---
 
-{% photo EMcAei0L/medish.jpg %}
+{% photo FkpfvsQ5/medish.jpg %}
 
 库尔德宁位于西天山国家自然保护区内，大吉尔格朗河支流库尔德宁河畔，一条南北走向的山间阔谷，拥有国内最大的原始云杉林。
 

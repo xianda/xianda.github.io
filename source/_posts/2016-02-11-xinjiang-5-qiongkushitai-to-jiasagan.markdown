@@ -44,6 +44,8 @@ ELrBLlLW/medish.jpg
 ELrCsLvH/medish.jpg
 {% endgallery %}
 
+问司机，有没有走过我们准备走的这条线路，答曰曾经走过一次，去开同学会。好高大上的同学会啊！
+
 11点多才到琼库什台，司机找了朋友开的客栈给我们准备“早餐”。结果柴还没劈，更别提烧火做饭。一个多小时后，几碗清淡的面条才做出来。
 
 ### 穿越
@@ -79,7 +81,7 @@ ELrEyViq/medish.jpg
 不过到底是哪些家伙在网上说很难走错的，每个岔路都会出现相差很多的方向，随便走错一个都南辕北辙去了。茫茫草原上找个人影都难，好不容易等半天见着一个还距离几百米远，只好靠吆喝问路了。实在找不着人的时候只好碰运气了，不过没想到的是香香居然是个方向感很好的女生，几处岔路都凭着她的感觉走对了，而此时我还全无方向感。
 
 {% gallery %}
-FiTW2c2l/medish.jpg
+Fli60LuE/medish.jpg
 FdZtNQBc/medish.jpg
 ELrF29k9/medish.jpg
 FdZtTKoS/medish.jpg
