@@ -13,7 +13,7 @@ tags:
 - 年保玉则
 ---
 
-{% photo BtxXCiKi/large.jpg %}
+{% photo 2010-07-年保玉则/83295732-凌晨5点多的白云机场.jpg %}
 
 
 

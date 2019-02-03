@@ -40,6 +40,7 @@
 # </ul>
 
 require 'digest/md5'
+require 'uri'
 
 module Jekyll
 
@@ -55,18 +56,13 @@ module Jekyll
     end
 
     def thumb_for(filename, thumb=nil)
-      filename = filename.strip
+      filename = URI.escape(filename.strip)
       # FIXME: This seems excessive
-	  if filename =~ /\/large\.jpg$/
-        thumb = (thumb unless thumb == 'default') || filename.gsub(/large\.jpg$/, "medish.jpg")
       #elsif filename =~ /\.[^\/]+/
       #  thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)$/, "_m.\\k<ext>")
       #else
       #  thumb = (thumb unless thumb == 'default') || "#{filename}_m"
-      else
-        thumb = (thumb unless thumb == 'default') || "#{filename}"
-      end
-      path_for(thumb)
+      "#{path_for((thumb unless thumb == 'default') || filename)}/medium"
     end
   end
 

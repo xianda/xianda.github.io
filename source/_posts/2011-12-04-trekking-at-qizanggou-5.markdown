@@ -13,7 +13,7 @@ tags:
 - 七藏沟
 ---
 
-{% photo BsoNXnJw/large.jpg %}
+{% photo 2011-10-七藏沟/83198173-DSC_9081.jpg %}
 
 
 
@@ -25,7 +25,7 @@ tags:
 
  <!-- more -->
 
-{% photo BssbNObX/large.jpg %}
+{% photo 2011-10-七藏沟/83200402-DSC_9072.jpg %}
 
 
 
@@ -41,7 +41,7 @@ tags:
 
 
 
-{% photo BssbRldq/large.jpg %}
+{% photo 2011-10-七藏沟/83200403-DSC_9076.jpg %}
 
 
 
@@ -49,7 +49,7 @@ tags:
 
 
 
-{% photo BssbYSx4/large.jpg %}
+{% photo 2011-10-七藏沟/83200405-DSC_9085.jpg %}
 
 
 

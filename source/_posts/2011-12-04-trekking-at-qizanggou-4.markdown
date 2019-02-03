@@ -14,7 +14,7 @@ tags:
 - 红星海
 ---
 
-{% photo BsoNGRvc/large.jpg %}
+{% photo 2011-10-七藏沟/83198143-DSC_9015.jpg %}
 
 
 
@@ -22,7 +22,7 @@ tags:
 
  <!-- more -->
 
-{% photo BsoNiZ80/large.jpg %}
+{% photo 2011-10-七藏沟/83198097-DSC_8950.jpg %}
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 
 
-{% photo BsoNrhaU/large.jpg %}
+{% photo 2011-10-七藏沟/83198121-DSC_8976.jpg %}
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-{% photo By7bwxiH/large.jpg %}
+{% photo 2011-10-七藏沟/83670331-DSC_8981.jpg %}
 
 
 
@@ -46,7 +46,7 @@ tags:
 
 
 
-{% photo BsoNwi6z/large.jpg %}
+{% photo 2011-10-七藏沟/83198126-DSC_8985.jpg %}
 
 
 
@@ -54,7 +54,7 @@ tags:
 
 
 
-{% photo BsoNy3Jv/large.jpg %}
+{% photo 2011-10-七藏沟/83198130-DSC_8993.jpg %}
 
 
 
@@ -62,7 +62,7 @@ tags:
 
 
 
-{% photo BsoNBLoc/large.jpg %}
+{% photo 2011-10-七藏沟/83198135-DSC_8998.jpg %}
 
 
 
@@ -70,7 +70,7 @@ tags:
 
 
 
-{% photo BsoNDriE/large.jpg %}
+{% photo 2011-10-七藏沟/83198139-DSC_9008.jpg %}
 
 
 
@@ -78,19 +78,19 @@ tags:
 
 
 
-{% photo BsslEY9e/large.jpg %}
+{% photo 2011-10-七藏沟/83200506-全景图1_3.jpg %}
 
 
 
 时间尚早，我们一群人或者静静地坐在湖边享受着天堂般的美景，或者在湖边摆着各种POSE记录着自己甜蜜时光。我却有点不知如何拍这美丽的湖拍下来，总觉得无论哪个角度，都无法诠释红星海真正的美丽。
 
-{% photo BsoNJaQh/large.jpg %}
+{% photo 2011-10-七藏沟/83198146-DSC_9022.jpg %}
 
-{% photo BsoNKQ7l/large.jpg %}
+{% photo 2011-10-七藏沟/83198149-DSC_9024.jpg %}
 
 
 
-{% photo BsoNORVC/large.jpg %}
+{% photo 2011-10-七藏沟/83198158-DSC_9050.jpg %}
 
 
 
@@ -98,7 +98,7 @@ tags:
 
 
 
-{% photo BsoNS5Ms/large.jpg %}
+{% photo 2011-10-七藏沟/83198164-DSC_9063.jpg %}
 
 
 
@@ -106,4 +106,4 @@ tags:
 
 
 
-{% photo BsoNTCgO/large.jpg %}
+{% photo 2011-10-七藏沟/83198097-DSC_8950.jpg %}

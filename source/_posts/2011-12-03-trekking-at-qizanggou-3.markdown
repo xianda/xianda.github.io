@@ -14,7 +14,7 @@ tags:
 - 鱼海子
 ---
 
-{% photo BsoNdDaT/large.jpg %}
+{% photo 2011-10-七藏沟/83198102-DSC_8956.jpg %}
 
 
 
@@ -30,7 +30,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
  <!-- more -->
 
-{% photo BsoMMRb5/large.jpg %}
+{% photo 2011-10-七藏沟/83198074-DSC_8780.jpg %}
 
 
 
@@ -38,7 +38,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-{% photo BssbI3Y9/large.jpg %}
+{% photo 2011-10-七藏沟/83200392-DSC_8801.jpg %}
 
 
 
@@ -46,7 +46,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-{% photo BssbK4xO/large.jpg %}
+{% photo 2011-10-七藏沟/83200401-DSC_8816.jpg %}
 
 
 
@@ -54,7 +54,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-{% photo By7bqJ1x/large.jpg %}
+{% photo 2011-10-七藏沟/83670323-DSC_8846.jpg %}
 
 
 
@@ -62,7 +62,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-{% photo BsoMTHqn/large.jpg %}
+{% photo 2011-10-七藏沟/83198079-DSC_8853.jpg %}
 
 
 
@@ -70,7 +70,7 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-{% photo BsoMXOrE/large.jpg %}
+{% photo 2011-10-七藏沟/83198082-DSC_8862.jpg %}
 
 
 
@@ -78,15 +78,15 @@ Pipy去跟我要了一瓶红景天口服液，这东西还真神，几分钟后�
 
 
 
-{% photo By7btFdg/large.jpg %}
+{% photo 2011-10-七藏沟/83670327-DSC_8894.jpg %}
 
 
 
-{% photo BsoN7ymc/large.jpg %}
+{% photo 2011-10-七藏沟/83198097-DSC_8950.jpg %}
 
 
 
-{% photo BsoNcak2/large.jpg %}
+{% photo 2011-10-七藏沟/83198097-DSC_8950.jpg %}
 
 
 

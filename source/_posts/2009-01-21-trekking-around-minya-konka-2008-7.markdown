@@ -47,7 +47,7 @@ _这一天的任务是翻过4800米的热乌切垭口，很可惜，没有看到
 
 <!-- more -->
 
-![](http://fwve8w.blu.livefilestore.com/y1p2d87j3_p8hKYdaMJCEEQD08YLg6_ug3PNgGWE3OVK6e71mcI8sT5X2hNYdCkWn2mboki7ANXn3w/DSC_1349 2009.01.20.2131.16.jpg)
+![](http://fwve8w.blu.livefilestore.com/y1p2d87j3_p8hKYdaMJCEEQD08YLg6_ug3PNgGWE3OVK6e71mcI8sT5X2hNYdCkWn2mboki7ANXn3w/DSC_1349-2009.01.20.2131.16.jpg)
 
 
 
@@ -59,7 +59,7 @@ _这一天的任务是翻过4800米的热乌切垭口，很可惜，没有看到
 
 
 
-![](http://fwve8w.blu.livefilestore.com/y1posSdFZP78g26yz1MY1gDb_MkMfYy7e7vDgm_8sw_E9ZGr5_B8oUYRifodAChQNQYF8hDUjpG-Ew/DSC_1353 2009.01.20.2131.45.jpg)
+![](http://fwve8w.blu.livefilestore.com/y1posSdFZP78g26yz1MY1gDb_MkMfYy7e7vDgm_8sw_E9ZGr5_B8oUYRifodAChQNQYF8hDUjpG-Ew/DSC_1353-2009.01.20.2131.45.jpg)
 
 
 
@@ -71,7 +71,7 @@ _这一天的任务是翻过4800米的热乌切垭口，很可惜，没有看到
 
 
 
-![](http://fwve8w.blu.livefilestore.com/y1p-iVyS3fV_NqT5_G9P_EBQw8ZaieDMl5LqwTGTNJNLPZ6Pa5fWpl2dsmNVt0xLJf2nVE9oBuTlsA/DSC_1365 2009.01.20.2132.42.jpg)
+![](http://fwve8w.blu.livefilestore.com/y1p-iVyS3fV_NqT5_G9P_EBQw8ZaieDMl5LqwTGTNJNLPZ6Pa5fWpl2dsmNVt0xLJf2nVE9oBuTlsA/DSC_1365-2009.01.20.2132.42.jpg)
 
 
 
@@ -79,7 +79,7 @@ _这一天的任务是翻过4800米的热乌切垭口，很可惜，没有看到
 
 
 
-![](http://fwve8w.blu.livefilestore.com/y1p5giSV1ny5ZQ431Ci6nhdpNFj-g0ZA20Q-K8H92PV_2lvrkc8CjiP4uj87GmKTC6xq4eowTKEN80/DSC_1372 2009.01.20.2133.59.jpg)
+![](http://fwve8w.blu.livefilestore.com/y1p5giSV1ny5ZQ431Ci6nhdpNFj-g0ZA20Q-K8H92PV_2lvrkc8CjiP4uj87GmKTC6xq4eowTKEN80/DSC_1372-2009.01.20.2133.59.jpg)
 
 
 

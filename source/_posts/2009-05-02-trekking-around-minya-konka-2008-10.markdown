@@ -36,7 +36,7 @@ _子梅垭口，观赏贡嘎的最佳位置之一，大家向往已久的垭口�
 
 
 
-![](http://fwve8w.blu.livefilestore.com/y1piheu1WfxKk5Rqws47kHPUTdrfniJWbwfBpz_BOzU2lIdHBCMlIuUl72-M4iTdELeDYQ1HsGHwCJQI3VWKfMYzA/DSC_1686 2009.05.01.1648.44.jpg)
+![](http://fwve8w.blu.livefilestore.com/y1piheu1WfxKk5Rqws47kHPUTdrfniJWbwfBpz_BOzU2lIdHBCMlIuUl72-M4iTdELeDYQ1HsGHwCJQI3VWKfMYzA/DSC_1686-2009.05.01.1648.44.jpg)
 
 
 
@@ -72,11 +72,11 @@ _子梅垭口，观赏贡嘎的最佳位置之一，大家向往已久的垭口�
 
 
 
-![](http://fwve8w.blu.livefilestore.com/y1pblsfcCGT3IRbRw98vwPwyQ7Irpl-pxq5npU_mVTjh4_wmFwWJocFgy_F1SKcuwfH8VuxR-fbYe16zkxE_LlmTQ/DSC_1740 2009.05.01.1649.34.jpg)
+![](http://fwve8w.blu.livefilestore.com/y1pblsfcCGT3IRbRw98vwPwyQ7Irpl-pxq5npU_mVTjh4_wmFwWJocFgy_F1SKcuwfH8VuxR-fbYe16zkxE_LlmTQ/DSC_1740-2009.05.01.1649.34.jpg)
 
 
 
-![](http://fwve8w.blu.livefilestore.com/y1pjQRbp2Px-7gJN4UVLwWzQHUBJlEtk-sZhy2P225eo6LQVJzxNj4Lz6fFir_HE9dKhQF5-nxODkGnwiCAjJpg0g/DSC_1743 2009.05.01.1649.51.jpg)
+![](http://fwve8w.blu.livefilestore.com/y1pjQRbp2Px-7gJN4UVLwWzQHUBJlEtk-sZhy2P225eo6LQVJzxNj4Lz6fFir_HE9dKhQF5-nxODkGnwiCAjJpg0g/DSC_1743-2009.05.01.1649.51.jpg)
 
 
 

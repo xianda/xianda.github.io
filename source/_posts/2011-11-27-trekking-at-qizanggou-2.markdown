@@ -15,7 +15,7 @@ tags:
 
 
 
-{% photo By7blLWm/large.jpg %}
+{% photo 2011-10-七藏沟/83670318-DSC_8694.jpg %}
 
 
 
@@ -43,7 +43,7 @@ tags:
 
 
 
-{% photo By7aS0KP/large.jpg %}
+{% photo 2011-10-七藏沟/83670287-DSC_8563.jpg %}
 
 
 
@@ -51,7 +51,7 @@ tags:
 
 
 
-{% photo By7aUsRB/large.jpg %}
+{% photo 2011-10-七藏沟/83670289-DSC_8568.jpg %}
 
 
 
@@ -59,11 +59,11 @@ tags:
 
 
 
-{% photo BsoLQXsp/large.jpg %}
+{% photo 2011-10-七藏沟/83198012-DSC_8573.jpg %}
 
 
 
-{% photo By7b2Jv0/large.jpg %}
+{% photo 2011-10-七藏沟/83670296-DSC_8595.jpg %}
 
 
 
@@ -71,7 +71,7 @@ tags:
 
 
 
-{% photo By7aXq55/large.jpg %}
+{% photo 2011-10-七藏沟/83670290-DSC_8576.jpg %}
 
 
 
@@ -79,7 +79,7 @@ tags:
 
 
 
-{% photo BsoLUU99/large.jpg %}
+{% photo 2011-10-七藏沟/83198020-DSC_8579.jpg %}
 
 
 
@@ -87,11 +87,11 @@ tags:
 
 
 
-{% photo BsoM24S1/large.jpg %}
+{% photo 2011-10-七藏沟/83198031-DSC_8632.jpg %}
 
 
 
-{% photo By7b9wRI/large.jpg %}
+{% photo 2011-10-七藏沟/83670304-DSC_8656.jpg %}
 
 
 
@@ -99,11 +99,11 @@ tags:
 果然不出所料，今天的天气是越来越好，慢慢地露出了蓝天，时不时有阳光透过云层撒下来，这让我们之前的忧虑一扫而空。我们非常庆幸一直没有放弃，终于盼来了好天气。
 
 
-{% photo By7bcwW1/large.jpg %}
+{% photo 2011-10-七藏沟/83670307-DSC_8675.jpg %}
 
 
 
-{% photo BsoMraCf/large.jpg %}
+{% photo 2011-10-七藏沟/83198061-DSC_8678.jpg %}
 
 
 
@@ -115,11 +115,11 @@ tags:
 
 
 
-{% photo By7biVVu/large.jpg %}
+{% photo 2011-10-七藏沟/83670314-DSC_8689.jpg %}
 
 
 
-{% photo BsoMAlet/large.jpg %}
+{% photo 2011-10-七藏沟/83198067-DSC_8700.jpg %}
 
 
 
@@ -127,7 +127,7 @@ tags:
 
 
 
-{% photo BsoMGnPg/large.jpg %}
+{% photo 2011-10-七藏沟/83198071-DSC_8763.jpg %}
 
 
 
@@ -135,4 +135,4 @@ tags:
 
 
 
-{% photo BsoMIfnA/large.jpg %}
+{% photo 2011-10-七藏沟/83198072-DSC_8765.jpg %}

@@ -13,7 +13,7 @@ tags:
 - 年保玉则
 ---
 
-{% photo Bty083zF/large.jpg %}
+{% photo 2010-07-年保玉则/83295948-DSC_3089.jpg %}
 
 
 
@@ -25,7 +25,7 @@ tags:
 
  <!-- more -->
 
-{% photo BtxYBETs/large.jpg %}
+{% photo 2010-07-年保玉则/83295900-DSC_2979.jpg %}
 
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-{% photo BtxYK0D2/large.jpg %}
+{% photo 2010-07-年保玉则/83295902-DSC_2986.jpg %}
 
 
 
@@ -45,7 +45,7 @@ tags:
 
 
 
-{% photo BtxYNaUW/large.jpg %}
+{% photo 2010-07-年保玉则/83295903-DSC_2989.jpg %}
 
 
 
@@ -53,7 +53,7 @@ tags:
 
 
 
-{% photo BtxYRT8Z/large.jpg %}
+{% photo 2010-07-年保玉则/83295906-DSC_2993.jpg %}
 
 
 
@@ -61,13 +61,13 @@ tags:
 
 
 
-{% photo BtxYUkhF/large.jpg %}
+{% photo 2010-07-年保玉则/83295908-DSC_3000.jpg %}
 
 晚餐时间仍然是二木在忙前忙后，我和周周都无精打采，更是一点胃口都没有。我在二木的强烈建议下喝了一大杯很浓的葡萄糖水，看看能否缓解一下高反。
 
 
 
-{% photo BtxZ33Lf/large.jpg %}
+{% photo 2010-07-年保玉则/83295913-DSC_3011.jpg %}
 
 
 
@@ -75,11 +75,11 @@ tags:
 
 
 
-{% photo BtxZ6qdy/large.jpg %}
+{% photo 2010-07-年保玉则/83295915-DSC_3030.jpg %}
 
 
 
-{% photo BtxZ7Bay/large.jpg %}
+{% photo 2010-07-年保玉则/83295916-DSC_3033.jpg %}
 
 
 
@@ -91,11 +91,11 @@ tags:
 
 
 
-{% photo BtxZf39d/large.jpg %}
+{% photo 2010-07-年保玉则/83295920-DSC_3041.jpg %}
 
 
 
-{% photo BtxZmjez/large.jpg %}
+{% photo 2010-07-年保玉则/83295924-DSC_3049.jpg %}
 
 
 
@@ -103,11 +103,11 @@ tags:
 
 
 
-{% photo BtxZvZUw/large.jpg %}
+{% photo 2010-07-年保玉则/83295929-DSC_3053.jpg %}
 
 
 
-{% photo BtxZCOlW/large.jpg %}
+{% photo 2010-07-年保玉则/83295933-DSC_3074.jpg %}
 
 
 
@@ -115,7 +115,7 @@ tags:
 
 
 
-{% photo Bty09T7A/large.jpg %}
+{% photo 2010-07-年保玉则/83295949-DSC_3094.jpg %}
 
 
 
@@ -123,11 +123,11 @@ tags:
 
 
 
-{% photo BtxZXxzK/large.jpg %}
+{% photo 2010-07-年保玉则/83295945-DSC_3086.jpg %}
 
 
 
-{% photo Bty01t2H/large.jpg %}
+{% photo 2010-07-年保玉则/83295946-DSC_3087.jpg %}
 
 
 

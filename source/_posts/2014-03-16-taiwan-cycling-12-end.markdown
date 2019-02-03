@@ -12,7 +12,7 @@ tags:
 - 台湾
 ---
 
-{% photo D0ZimBUg/large.jpg %}
+{% photo 2013-06-台湾/89027893-DSC_1603.jpg %}
 
 回程没什么好写，所以直接总结吧。
 

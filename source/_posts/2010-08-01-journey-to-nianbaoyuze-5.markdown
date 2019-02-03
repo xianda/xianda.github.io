@@ -13,7 +13,7 @@ tags:
 - 年保玉则
 ---
 
-{% photo Bty0mFPn/large.jpg %}
+{% photo 2010-07-年保玉则/83295960-DSC_3123.jpg %}
 
 
 
@@ -49,11 +49,11 @@ tags:
 
 
 
-{% photo Bty0iePS/large.jpg %}
+{% photo 2010-07-年保玉则/83295955-DSC_3107.jpg %}
 
 
 
-{% photo Bty0jvkC/large.jpg %}
+{% photo 2010-07-年保玉则/83295957-DSC_3111.jpg %}
 
 
 
@@ -69,7 +69,7 @@ tags:
 
 
 
-{% photo Bty0kWw4/large.jpg %}
+{% photo 2010-07-年保玉则/83295958-DSC_3113.jpg %}
 
 
 

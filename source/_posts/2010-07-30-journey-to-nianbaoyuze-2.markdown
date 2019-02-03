@@ -14,7 +14,7 @@ tags:
 - 若尔盖
 ---
 
-{% photo BtxXS4tr/large.jpg %}
+{% photo 2010-07-年保玉则/83295774-DSC_2913.jpg %}
 
 
 
@@ -54,11 +54,11 @@ tags:
 
 
 
-{% photo BtxXEHnG/large.jpg %}
+{% photo 2010-07-年保玉则/83295740-DSC_2855.jpg %}
 
 
 
-{% photo BtxXGpIs/large.jpg %}
+{% photo 2010-07-年保玉则/83295746-DSC_2856.jpg %}
 
 
 
@@ -70,7 +70,7 @@ tags:
 
 
 
-{% photo BtxXJyHk/large.jpg %}
+{% photo 2010-07-年保玉则/83295758-DSC_2876.jpg %}
 
 
 
@@ -78,11 +78,11 @@ tags:
 
 
 
-{% photo BtxXMHIo/large.jpg %}
+{% photo 2010-07-年保玉则/83295766-DSC_2889.jpg %}
 
 
 
-{% photo BtSATOeK/large.jpg %}
+{% photo 2010-07-年保玉则/83325228-DSC_2894.jpg %}
 
 
 
@@ -90,11 +90,11 @@ tags:
 
 
 
-{% photo BtxXOpjZ/large.jpg %}
+{% photo 2010-07-年保玉则/83295768-DSC_2896.jpg %}
 
 
 
-{% photo BtxXQv7Z/large.jpg %}
+{% photo 2010-07-年保玉则/83295771-DSC_2907.jpg %}
 
 
 
