@@ -7,7 +7,7 @@ comments: true
 categories:
 - 2014-Krabi [14甲米游]
 - travel [旅行]
-Tags:
+tags:
 - 甲米
 - Krabi
 - Phi Phi

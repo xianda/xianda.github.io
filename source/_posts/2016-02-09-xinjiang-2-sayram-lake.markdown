@@ -7,7 +7,7 @@ comments: true
 categories:
 - 2015-Xinjiang [15新疆行]
 - travel [旅行]
-Tags:
+tags:
 - 新疆
 - 伊犁
 - 赛里木湖
