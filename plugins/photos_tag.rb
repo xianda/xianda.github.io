@@ -62,7 +62,7 @@ module Jekyll
       #  thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)$/, "_m.\\k<ext>")
       #else
       #  thumb = (thumb unless thumb == 'default') || "#{filename}_m"
-      "#{path_for((thumb unless thumb == 'default') || filename)}/medium"
+      "#{path_for((thumb unless thumb == 'default') || filename)}?size=720"
     end
   end
 

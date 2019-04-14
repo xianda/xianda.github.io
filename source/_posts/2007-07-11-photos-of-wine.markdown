@@ -14,17 +14,7 @@ tags:
 
 很久没玩，手痒，拿珍藏的红酒拍几张练手。来自法国Languedoc的AOC级干红![](http://shared.live.com/VIf!VWmJbs6tK-ObyYk28Q/emoticons/smile_teeth.gif)。
 
-
-
-
-
-
-
 酒红色的心
-
-
-
-
 
 一双眼睛 爱的吸力
 芬芳美酒 渗出魅力
@@ -37,10 +27,6 @@ tags:
 红酒红酒红酒 多清新的水晶
 真爱为谁滴
 
-
-
-
-
 点点畏羞 爱的魔力
 酒涌进内心 变一股动力
 重现爱火实在爱惜
@@ -52,18 +38,12 @@ tags:
 红酒红酒红酒 干一杯加深记忆
 真爱为谁滴
 
-
-
 ![](http://tkfiles.storage.msn.com/y1p4g3jqV0MUEmCqoKDQIlVjij-648zQz9lwrhSLTUaLWhoiv8znEXe8Fvi84oDMMBZ)
 
 <!-- more -->
 
 ![](http://tkfiles.storage.msn.com/y1p4g3jqV0MUEkbZxEe_b9Wl1aH_O4dQZXgK2cTZvR_9T7Ylej_x-qCg2-0bPuhlW7Y)
 
-
-
 ![](http://tkfiles.storage.msn.com/y1p4g3jqV0MUEldLx3BPRpI3wRaCLuPA-xKliI9PcSgYyx0i0t4GMxqglDMiXvt2ByI)
-
-
 
 ![](http://tkfiles.storage.msn.com/y1p4g3jqV0MUEmYjmR40yjkcU6rmZJZ82n_AVwPOQ89YYyE9JIxtZN9gTpIo5RATpsM)

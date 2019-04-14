@@ -20,9 +20,7 @@ _按预定行程，今天需要翻越N个垭口，不过最重要的是，能看
 
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a1avRQGGh8KBDXcLw_YYeWCml3rYdX9OMMiua7ZciZhJ8PJIzVsjqdmJ2i4vQjWfJ0)
 
-
 ### 10月7日  曲纽——黑海附近垭口——克孜拉牛场
-
 
 下了一晚的大雨，在帐篷内被雨声吵醒了几次，还好没有下冰雹。不过一大片开阔的草地只搭了我们两个帐篷，而且离得还挺远，有时候我还在担心万一有点什么事情相互照顾不到。不过担心是多余的，第二天好好的醒过来，雨停了。
 
@@ -78,43 +76,25 @@ _按预定行程，今天需要翻越N个垭口，不过最重要的是，能看
 
 我们都没见过这么绿、这么美丽的高山湖泊，完全被惊呆了。
 
-
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a2cjQPC8tUp6IEyZ7yhsSdNTAz34z9cutgLtpyEZTTP7u0PVqlTcFuyFj2J3pOW7YA)
 
-
-
-
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a06NbP5h73mpIj28vQTi08ctvr5_8BjqWHoKPetatxwcCQMHQ_zYwRTG6xN4aldinI)
-
 
 队友陆续跟了上来，Jerry开始不顾一切地向高处爬去，为了给里西措一张全景照。我们下了坡，见到后面的马帮从山坡后绕了出来，停在路上不动了。两个马夫，六匹骡马，无一例外地望着这个美丽的海子发呆，很久很久……
 
 海子就在眼前，然而下这个坡居然花了我们半个多小时的时间。到湖边，看到玛尼堆旁边还丢着许多的手镯、珠链之类的装饰品，不知道啥意思。正好在湖边的时候，央迈勇从云层里透了出来，又正好有一点阳光从云缝里透出来照到了山上，美丽的央迈勇！
 
-
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a3JdpwclbsqIOymfXS66Yt1ZYqMFRe_6oKLQeiZ5_Z5-nn5BPnRvWIknjOmsHS8_T4)
-
-
-
 
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a3xx1JQPBLIpenhXW-1oyPbBoTUy1RGHbpkDwUVGqAwi0Z2XvpHDTzMQbkv4uZaWY8)
 
-
-
-
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a0Y8OoxgCKP9QVc3LSA92scrynaY6xMR-UCH2Ghose69SXGVujSqkwj5Vw4oIYuyRw)
-
 
 不多久，云层再次挡住神山，阳光也不见了，我们准备去找不知去向的马帮的时候，云层已经是满天密布了。天色很快暗了下来，我们向西面仙乃日山脚方向走去，马帮不知道跑哪了。又是灌木丛里的小路，乱石、泥泞，绕过一个山坡，见到一个牧场，有牛棚，找到队伍了。
 
-
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a1Krv3gnDhy5E5e7wsuQsDdWU9c_kG3YtzvH_SLOSMszXddBblX6pBCNHCPsDwp0Fg)
 
-
-
-
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a03kTDGPkuAWxR9xduIQPVVpfThkfVd4gZlLQGKjYqRbjhQ3vD-OIfM_M_OIhJ-j-s)
-
 
 跟牛棚主人聊了很多，问他们我们经过的地方，海子的名字，问明天的路，问景区内的情况，还有许多。于是知道了曲纽阿措卓玛、曲纽，黑海叫次拉，蛇湖叫里西措，我们现在住的牛场叫克孜拉牛场，他们是卡斯村邻村的人，从卡斯去中甸只要一天，他们这里的虫草比附近其它地方的要好，卖到50块一根……
 
