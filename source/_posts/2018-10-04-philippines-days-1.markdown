@@ -8,6 +8,8 @@ categories:
 - travel [旅行]
 tags:
 - 菲律宾
+- 麦坦岛
+- Mactan
 ---
 
 {% photo 2018-01-菲律宾/97575418-DSC_0511.jpg %}

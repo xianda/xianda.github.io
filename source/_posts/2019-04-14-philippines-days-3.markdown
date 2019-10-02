@@ -8,6 +8,7 @@ categories:
 - travel [旅行]
 tags:
 - 菲律宾
+- Olango
 ---
 
 {% photo 2018-01-菲律宾/97591905-IMG_20171230_165939-01.jpg %}

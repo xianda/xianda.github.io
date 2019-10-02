@@ -9,6 +9,8 @@ categories:
 tags:
 - 菲律宾
 - 鲸鲨
+- Oslob
+- 潜水
 ---
 
 ## Oslob 看鲸鲨
