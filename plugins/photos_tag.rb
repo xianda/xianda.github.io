@@ -51,8 +51,12 @@ module Jekyll
 
     def path_for(filename)
       filename = filename.strip
-      prefix = (@context.environments.first['site']['photos_prefix'] unless filename =~ /^(?:\/|http)/i) || ""
-      "#{prefix}#{filename}?size=1080"
+      if filename =~ /^(?:\/|http)/i
+      	filename
+	  else
+        prefix = @context.environments.first['site']['photos_prefix']
+        "#{prefix}#{filename.sub(/(.*)\/(.*)/, '\1/1080/\2')}"
+	  end
     end
 
     def thumb_for(filename, thumb=nil)
@@ -62,7 +66,7 @@ module Jekyll
       #  thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)$/, "_m.\\k<ext>")
       #else
       #  thumb = (thumb unless thumb == 'default') || "#{filename}_m"
-      "#{path_for((thumb unless thumb == 'default') || filename).gsub(/\?.+$/, '')}?size=720"
+      "#{path_for((thumb unless thumb == 'default') || filename).sub(/\/1080\//, '/720/')}"
     end
   end
 
