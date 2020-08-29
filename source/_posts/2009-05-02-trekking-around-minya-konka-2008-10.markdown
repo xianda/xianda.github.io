@@ -75,3 +75,5 @@ _子梅垭口，观赏贡嘎的最佳位置之一，大家向往已久的垭口�
 ![](http://fwve8w.blu.livefilestore.com/y1p5t_a5L7s9E6cabZXnEesKQM_ERUbVkXmrPjhw10ITzKuOxAk6PXfFfu4ahyTOUx8yDwya8gq2iR1y8hZ172gFA/DSC_1802.jpg)
 
 回去加了衣服，吃了刚煮的粥，终于等到风把主峰上的云层吹开，贡嘎主峰威武雄壮地屹立在我们面前。我们说，一路辛苦走来，就为了现在这一刻，目睹贡嘎真容，然而此刻，我们觉得前面一路的辛苦都值得。我终于在子梅垭口上看见了贡嘎。
+
+![](http://fwve8w.blu.livefilestore.com/y1ppNjHq94P61W8M6lIeSsngOjS6n26VFX_Oxujzo02YjHj6XuHor5riZWFf-Uzz6AQJNSehumO5ucSOVfqvPjBOQ/DSC_1804.jpg)

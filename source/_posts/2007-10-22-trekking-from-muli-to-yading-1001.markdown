@@ -16,7 +16,7 @@ tags:
 - 西昌
 ---
 
-_前一天的休息不足没有让我感到疲惫，而每次到达一个新地方的总会让人感到一些新奇，于是在车上度过的这一天并不显得沉闷。 _
+_前一天的休息不足没有让我感到疲惫，而每次到达一个新地方的总会让人感到一些新奇，于是在车上度过的这一天并不显得沉闷。_
 
 ![](http://tkfiles.storage.live.com/y1pSlGiGjDE0a1Dt7tnIrfg45cvXOcVAe547j_Nc9twmSxtf7hc3PqJxBkWjT4UH4pdKRrBa1rUPWU)
 
