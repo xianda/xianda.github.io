@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: blogsync | 达，路过]]></title>
-  <link href="http://wangxianda.cn/blog/tags/blogsync/atom.xml" rel="self"/>
-  <link href="http://wangxianda.cn/"/>
-  <updated>2021-05-04T14:39:14+08:00</updated>
-  <id>http://wangxianda.cn/</id>
+  <link href="http://xianda.wang/blog/tags/blogsync/atom.xml" rel="self"/>
+  <link href="http://xianda.wang/"/>
+  <updated>2021-05-04T14:57:11+08:00</updated>
+  <id>http://xianda.wang/</id>
   <author>
     <name><![CDATA[Xianda]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[博客搬家血泪史]]></title>
-    <link href="http://wangxianda.cn/blog/2010/04/04/migration-of-my-blog/"/>
+    <link href="http://xianda.wang/blog/2010/04/04/migration-of-my-blog/"/>
     <updated>2010-04-04T19:03:55+08:00</updated>
-    <id>http://wangxianda.cn/blog/2010/04/04/migration-of-my-blog</id>
+    <id>http://xianda.wang/blog/2010/04/04/migration-of-my-blog</id>
     <content type="html"><![CDATA[<p>去年嫌弃<a href="http://sandycreep.spaces.live.com/">Live space</a>不好用，国内的博客又都看不上眼，相当苦恼，国内这么多IT人才，咋就没做出个有水平的博客呢。</p>
 
 <h3><strong>Blogger</strong></h3>

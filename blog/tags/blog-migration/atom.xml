@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: blog migration | 达，路过]]></title>
-  <link href="http://wangxianda.cn/blog/tags/blog-migration/atom.xml" rel="self"/>
-  <link href="http://wangxianda.cn/"/>
-  <updated>2021-05-04T14:39:14+08:00</updated>
-  <id>http://wangxianda.cn/</id>
+  <link href="http://xianda.wang/blog/tags/blog-migration/atom.xml" rel="self"/>
+  <link href="http://xianda.wang/"/>
+  <updated>2021-05-04T14:57:11+08:00</updated>
+  <id>http://xianda.wang/</id>
   <author>
     <name><![CDATA[Xianda]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[新宅入住了！]]></title>
-    <link href="http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog/"/>
+    <link href="http://xianda.wang/blog/2014/01/31/welcome-to-my-new-blog/"/>
     <updated>2014-01-31T00:11:01+08:00</updated>
-    <id>http://wangxianda.cn/blog/2014/01/31/welcome-to-my-new-blog</id>
+    <id>http://xianda.wang/blog/2014/01/31/welcome-to-my-new-blog</id>
     <content type="html"><![CDATA[<p>我苦命的博客经过多次搬迁，现在此处入住啦！使用的是 <a href="http://octopress.org">octopress</a> + <a href="https://github.com">github</a>。不过，这不会是一个技术博客。</p>
 
 <p>早年写过一篇 <a href="/blog/2010/04/04/migration-of-my-blog/">博客搬家血泪史</a>，讲述了我的博客从 Live Space 搬到 blogger 再搬到 yo2.cn 再搬到 35.cn 的辛酸故事。但后来的故事更加辛酸：35.cn 的访问速度非常慢，而 yo2.cn 合并到 blogcn，然后我就搬回 yo2.cn 了；结果没多久人家要收费，我再搬到 wordpress.com.cn。一直以来使用 Live Writer 离线编辑 wordpress 确实很方便，但是折腾多了也没什么动力再经常更新了。当然，更重要的是观众没了，大家都跑去玩微博了。</p>
