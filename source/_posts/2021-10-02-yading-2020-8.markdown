@@ -30,6 +30,7 @@ tags:
 {%gallery%}
 2020-10-亚丁/IMG_20201015_094857.jpg
 2020-10-亚丁/DSCF7838.jpg
+2020-10-亚丁/DSCF7841.jpg
 2020-10-亚丁/DSCF7845.jpg
 {%endgallery%}
 
